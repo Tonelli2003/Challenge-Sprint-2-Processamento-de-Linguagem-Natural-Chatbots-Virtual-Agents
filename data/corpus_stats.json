@@ -1,0 +1,253 @@
+{
+  "m1_vocabulario_bruto": 3181,
+  "m1_vocabulario_lematizado": 2914,
+  "m2_ttr_bruto": 0.3251,
+  "m2_ttr_lematizado": 0.3254,
+  "m3_top_50": [
+    {
+      "termo": "de",
+      "frequencia": 781
+    },
+    {
+      "termo": "motor",
+      "frequencia": 234
+    },
+    {
+      "termo": "do",
+      "frequencia": 147
+    },
+    {
+      "termo": "em",
+      "frequencia": 128
+    },
+    {
+      "termo": "and",
+      "frequencia": 105
+    },
+    {
+      "termo": "corrente",
+      "frequencia": 81
+    },
+    {
+      "termo": "pode",
+      "frequencia": 73
+    },
+    {
+      "termo": "rotor",
+      "frequencia": 56
+    },
+    {
+      "termo": "partida",
+      "frequencia": 54
+    },
+    {
+      "termo": "temperatura",
+      "frequencia": 46
+    },
+    {
+      "termo": "registrar",
+      "frequencia": 43
+    },
+    {
+      "termo": "or",
+      "frequencia": 41
+    },
+    {
+      "termo": "iec",
+      "frequencia": 40
+    },
+    {
+      "termo": "tensão",
+      "frequencia": 38
+    },
+    {
+      "termo": "frequência",
+      "frequencia": 38
+    },
+    {
+      "termo": "velocidade",
+      "frequencia": 37
+    },
+    {
+      "termo": "serviço",
+      "frequencia": 35
+    },
+    {
+      "termo": "contexto",
+      "frequencia": 34
+    },
+    {
+      "termo": "classe",
+      "frequencia": 34
+    },
+    {
+      "termo": "não",
+      "frequencia": 33
+    },
+    {
+      "termo": "torque",
+      "frequencia": 33
+    },
+    {
+      "termo": "falha",
+      "frequencia": 33
+    },
+    {
+      "termo": "potência",
+      "frequencia": 31
+    },
+    {
+      "termo": "isolamento",
+      "frequencia": 29
+    },
+    {
+      "termo": "térmica",
+      "frequencia": 29
+    },
+    {
+      "termo": "manutenção",
+      "frequencia": 28
+    },
+    {
+      "termo": "proteção",
+      "frequencia": 27
+    },
+    {
+      "termo": "número",
+      "frequencia": 27
+    },
+    {
+      "termo": "campo",
+      "frequencia": 27
+    },
+    {
+      "termo": "operação",
+      "frequencia": 27
+    },
+    {
+      "termo": "explosão",
+      "frequencia": 27
+    },
+    {
+      "termo": "nominal",
+      "frequencia": 26
+    },
+    {
+      "termo": "eixo",
+      "frequencia": 26
+    },
+    {
+      "termo": "prova",
+      "frequencia": 25
+    },
+    {
+      "termo": "entre",
+      "frequencia": 24
+    },
+    {
+      "termo": "vibração",
+      "frequencia": 24
+    },
+    {
+      "termo": "enrolamento",
+      "frequencia": 23
+    },
+    {
+      "termo": "inversor",
+      "frequencia": 23
+    },
+    {
+      "termo": "current",
+      "frequencia": 22
+    },
+    {
+      "termo": "temperature",
+      "frequencia": 22
+    },
+    {
+      "termo": "análise",
+      "frequencia": 22
+    },
+    {
+      "termo": "sem",
+      "frequencia": 21
+    },
+    {
+      "termo": "sobrecarga",
+      "frequencia": 21
+    },
+    {
+      "termo": "tipo",
+      "frequencia": 21
+    },
+    {
+      "termo": "difere",
+      "frequencia": 21
+    },
+    {
+      "termo": "ordem",
+      "frequencia": 20
+    },
+    {
+      "termo": "digital",
+      "frequencia": 20
+    },
+    {
+      "termo": "valor",
+      "frequencia": 19
+    },
+    {
+      "termo": "resistência",
+      "frequencia": 19
+    },
+    {
+      "termo": "causa",
+      "frequencia": 19
+    }
+  ],
+  "m4_medio": 22.9,
+  "m4_mediano": 24.0,
+  "m4_max": 46,
+  "m4_min": 5,
+  "m5_cobertura": {
+    "total_v5": 107,
+    "no_corpus": 107,
+    "pct": 100.0
+  },
+  "m6_dist_fonte": {
+    "manual_tecnico": 214,
+    "norma_tecnica": 107,
+    "ficha_cadastro_ativo": 107
+  },
+  "m6_dist_idioma": {
+    "pt": 321,
+    "en": 107
+  },
+  "m6_dist_categoria": {
+    "grandezas_eletricas": 52,
+    "grandezas_mecanicas": 24,
+    "componentes_motor": 36,
+    "tipos_falha": 60,
+    "parametros_operacao": 28,
+    "isolamento_protecao": 20,
+    "normas_certificacoes": 16,
+    "tags_nomenclatura": 32,
+    "manutencao_preditiva": 40,
+    "sensores_instrumentacao": 24,
+    "acionamento_controle": 16,
+    "arquitetura_digital_twin": 24,
+    "tipos_motor": 24,
+    "eventos_logs": 32
+  },
+  "m7_taxa_norm_pct": 100.0,
+  "m7_enc": 420,
+  "m7_exp": 427,
+  "m8_impacto": {
+    "sem_lema": 3181,
+    "com_lema": 2914,
+    "reducao_pct": 8.39
+  },
+  "total_docs": 428,
+  "total_tokens": 9786,
+  "data_geracao": "2026-05-09"
+}

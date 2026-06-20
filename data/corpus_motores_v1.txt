@@ -1,0 +1,428 @@
+diferença de potencial elétrico entre dois pontos do circuito contexto de motor industrial refere-se tensão nominal de alimentação máquina expressa em volts ex 380 tensão 440 tensão 13.8_kv
+electric potential difference between two point circuit context industrial motor refer nominal supply voltage machine express volt e.g 380 tensão 440 tensão 13.8_kv
+distinguir entre tensão de linha vl tensão de fase vf motor trifásicos vl vf
+u/u pode tensão unidade de rack industrial contexto técnico de motor: u tensão.
+fluxo de cargas elétricas unidade de tempo a corrente nominal indica valor de corrente qual motor projetado em regime contínuo plena carga
+flow electric charg per unit time rat current indicat value motor design under continuou full-load operation
+corrente de partida Ip pode de vezes corrente nominal
+corrente pode corrente elétrica (a) corrente de proteção em códigos de relé (ex.: i> pickup) contexto de grandeza de motor: corrente ampere corrente nominal. "amperagem" termo informal; adotar "corrente" termo canônico.
+potência taxa de realização de trabalho unidade de tempo expressa em kw cv 0.7355_kw 0.7355_kw 0.7457_kw inglês 0.7457_kw cv hp não são equivalente não devem usados sinônimos sem observação
+Power corrente de partida rate work per unit time express kw or hp 0.7457_kw 0.7457_kw metric cv 0.7355_kw cv and hp not equivalent and not used interchangeably without qualification
+distinguir potência ativa kw reativa kvar aparente kva em placas brasileiras frequentemente indicado em cv
+número de polo pode significar potência (kw/cv/hp) número de polo desambiguar pela unidade seguinte: kw/cv/hp potência; "polos" fórmula ns=120f/p polos.
+número de ciclos completos corrente alternada brasil frequência padrão rede elétrica 60_hz em países europeus asiáticos predomina 50_hz
+number complete alternat current cycl per second brazil standard grid frequency corrente de partida 60_hz european and asian country 50_hz predominat
+a frequência impacta diretamente velocidade síncrona velocidade síncrona 120 f número de polo
+frequência pode frequência elétrica (hz) frequência de vibração (hz) contexto desambigua: frequência elétrica associada tensão/corrente (50_hz, 60_hz); frequência de vibração associada espectro de aceleração/velocidade. registrar sufixo: f_eletrica vs. f_vibracao quar ambiguidade possível.
+relação entre potência ativa kw potência aparente kva expresso cos indica defasagem entre tensão corrente em cargas linear incorpora efeito de distorção harmônica em cargas não-linear não deve confundido rendimento
+ratio active power kw apparent power kva express cos reflect phase displacement linear load and harmonic distortion non-linear load not confus with efficiency mechanical output input ratio
+baixo fator de potência aumenta corrente reativa pode gerar multas tarifa de energia recomenda-se correção banco de capacitor
+fator de potência pode fator de potência frequência de pulso em contextos de inversores.
+relação entre potência mecânica fornecida eixo potência elétrica absorvida rede motor de alta rendimento IE3 IE4 apresentam rendimento acima de 90_
+ratio between mechanical power deliver shaft and electrical power absorb from grid high-efficiency motor IE3 IE4 present efficiency above 90_
+classe de rendimento classe de eficiência padrão classe de eficiência alto classe de eficiência premium classe de eficiência super premium
+pode representar rendimento (eficiência) viscosidade dinâmica em lubrificante contexto motor elétrico: rendimento energético (%).
+medida resistência oferecida pelo sistema de isolamento do enrolamento passagem de corrente de fuga valor mínimo aceitável mω kv de tensão nominal regra geral ieee 43
+measurement resistance offer winding insulation system leakage current flow minimum acceptable value mω kv rat voltage general ieee 43 rule
+medição realizada megôhmetro megger temperatura umidade influenciam significativamente resultado
+resistência de isolamento (insulation resistance) pode confundido "infravermelho" (infrared) em contextos de termografia desambiguar pelo campo técnico: resistência de isolamento mω resistência de isolamento.
+razão entre resistência de isolamento medida em 10 minutos medida em minuto PI ri10min ri1min indica qualidade integridade do sistema de isolamento
+ratio between insulation resistance measur 10 minut and minute PI ir10min ir1min indicat quality and integrity insulation system
+valor baixos indicam contaminação umidade sujeira degradação do verniz
+corrente de partida contexto de isolamento pode índice de polarização (adimensional, razão r10min/r1min) grau de proteção (ip54, ip55) distinguir pela presença de valor numérico duplo (ex. 1.6) vs. código alfanumérico (ex. ip54).
+diferença percentual entre tensões de fase em sistema trifásico desequilíbrios acima de 1_ causam aumento de temperatura enrolamento acima de 5_ pode causar danos permanente
+percentage difference between phase voltage three-phase system imbalanc above 1_ cause winding temperature increase above 5_ cause permanent damage
+cada 1_ de desequilíbrio de tensão pode aumentar perda motor em até 10_
+desequilíbrio de tensão pode calculado pelo método NEMA MG1 (pvur) iec (vuf) resultados numéricos divergem; registrar método de cálculo junto valor.
+componente senoidal de frequências múltiplas inteiras fundamental 50 60_hz presente em tensão corrente cargas não-linear inversor retificador diferente de distorção harmônica total GE011 métrica agregada
+sinusoidal component integer multipl fundamental frequency 50 or 60_hz distinct from distorção harmônica total GE011 corrente de partida aggregate metric
+motor alimentados inversor devem ter fator de serviço adequado compensar perda adicional harmônicos
+"harmônicos" categoria geral; harmônica individual (ex.: 5ª, 7ª) requer campo específico. não confundir distorção harmônica total (soma total) valor único disponível, assumir distorção harmônica total
+número de rotações completas do eixo do motor minuto a velocidade síncrona ns determinada pela frequência pelo número de polo a velocidade nominal inclui escorregamento
+number complete shaft rotation per minute synchronou spe ns corrente de partida determin frequency and number pole rat spe includ slip
+rotação nominal sempre inferior velocidade síncrona escorregamento 1-5_ valor real 3550 1770 1180 890 rotação velocidade síncrona teórica 3600 1800 1200 900 rotação 60_hz ver PO007
+rot. pode rotação (gm001) Rotor (cm002) desambiguar pelo contexto: grandeza unidade rotação rotação; componente Rotor
+força de rotação gerada eixo do motor torque nominal tn torque desenvolvido em plena carga velocidade nominal torque de partida torque máximo são parâmetros críticos dimensionamento
+rotational force generat motor shaft rat torque tn corrente de partida torque develop full load rat spe start torque and maximum torque critical siz parameter
+Torque de partida t_start tipicamente 150 250_ do tn torque máximo t_max tipicamente 200 300_ do tn
+Torque pode Torque (gm002) temperatura (gm005) contexto de motores, Torque seguido de nm torque; Torque seguido de °c temperatura.
+diferença percentual entre velocidade síncrona velocidade real do Rotor em motor de indução escorregamento em plena carga tipicamente de 1_ 5_
+percentage difference between synchronou spe and actual Rotor spe induction motor full-load slip corrente de partida typically 1_ 5_
+regime de serviço ns velocidade síncrona 100_ escorregamento elevado indica sobrecarga térmica problemas Rotor
+regime de serviço pode escorregamento (%) (unidade de tempo) desambiguar unidade associada: regime de serviço sem unidade escorregamento; regime de serviço após valor numérico de tempo segundo.
+oscilação mecânica do motor em torno de posição de equilíbrio monitorada acelerômetros indica desequilíbrio desalinhamento problemas em rolamento ressonância estrutural
+mechanical oscillation motor around equilibrium position monitor accelerometer indicat desequilíbrio de Rotor misalignment bearing problem or structural resonance
+a análise espectral fft vibração permite identificar frequência de falha componente defeituoso
+vibração pode medida velocidade rms (mm/s iso 20816), aceleração rms (m/s²) deslocamento pico-a-pico (μm) registrar unidade obrigatoriamente; campo padrão usa mm/s.
+temperatura de operação do motor medida enrolamento termistor PT100 temperatura máxima admissível classe a 105 130 155 180 a Altitude de temperatura ΔT diferença entre temperatura de enrolamento ambiente de referência 40
+motor winding operat temperature measur thermistor or PT100 maximum allowable temperature clas a 105 130 155 180 Temperature rise ΔT corrente de partida difference between winding temperature and reference ambient 40
+regra prática aumento de 10 temperatura de operação reduz em 50_ vida útil do isolamento
+Torque pode temperatura (gm005) Torque (gm002) ver gm002. símbolo canônico: temperatura temperatura (iec 60034), Torque torque.
+medida resistência do Rotor mudança de velocidade angular influencia tempo de partida corrente de partida taxa de aceleração do motor
+measure rotor resistance change angular velocity influenc start time start current and motor acceleration rate
+importante partida frequente aplicações alta inércia de carga ventilador compressor
+momento de inércia (unidade kgm²) convenção mecânica antiga; momento de inércia gd²/4. sistemas em si registram momento de inércia (kg·m²). converter fonte usa momento de inércia momento de inércia gd²/4.
+parte fixa do motor elétrico composto pelo núcleo de chapas de aço silício laminado pelos enrolamento de cobre serem energizados criam campo magnético rotativo
+fix part electric motor compos laminat silicon steel core and copper winding energiz create rotat magnetic field
+falha comuns curto-circuito entre espiras curto terra circuito aberto desequilíbrio de enrolamento
+sem ambiguidade técnica relevante; "estator" termo unívoco domínio de motor elétricos.
+parte giratória do motor em motor de indução trifásicos tipo comum Rotor gaiola de esquilo alumínio fundido interage campo magnético do estator produzir torque
+rotat part motor three-phase induction motor most common type corrente de partida squirrel cage Rotor die-cast aluminum interact with estator magnetic field produce torque
+falha barra de Rotor quebrada assimetria do núcleo excentricidade estática dinâmica
+"rotor" em contexto de bombas centrífugas impelidor contexto motor elétrico: Rotor parte girante eletromecânica do motor.
+elemento mecânico suporta eixo do Rotor permite rotação mínimo atrito pode de esferas rolos agulhas cônicas causa frequente de falha em motor industrial 40_ falha
+mechanical element support Rotor shaft and allow rotation with minimum friction ball roller needle or taper corrente de partida most frequent cause failure industrial motor 40_ failure
+identificado pela designação iso ex 6309-2z diagnóstico análise de vibração bpfo bpfi bsf ftf
+"mancal" pode rolamento mancal deslizante (sleeve bearing) distinguir: rolamento bearing (elemento rolante); mancal deslizante sleeve/plain bearing (sem elemento rolante).
+conjunto de condutor de cobre alumínio isolados dispostos ranhuras do núcleo responsável pela conversão eletromecânica de energia isolamento do enrolamento classificado classe térmica
+set insulat copper or aluminum conductor arrang core slot responsible electromechanical energy conversion Winding insulation corrente de partida classifi thermal clas
+classe térmicas a 105 120 130 frequência 155 180 rotação 200 220
+"enrolamento" pode referir-se estator Rotor qualificar: enrolamento_estator (fixo) vs. enrolamento_rotor (apenas em motor de Rotor bobinado).
+estrutura externa do motor abriga ordem de serviço componente internos dissipa calor gerado protege motor contra ambiente a carcaça iec identificada número indica altura do eixo em mm ex 132m
+external structure motor hous all internal component dissipat generat heat and protect motor against environment iec carcaça iec corrente de partida identifi number indicat shaft center height mm e.g 132m
+carcaça iec iec indica altura do eixo carcaça iec NEMA MG1 usa numeração diferente motor prova de explosão iec 132 NEMA MG1 254t
+"frame" pode carcaça iec iec (dimensional) carcaça iec de comunicação de dados (ex.: modbus frame) contexto motor: carcaça iec carcaça dimensional.
+elemento mecânico cilíndrico transmite torque do Rotor carga acoplada dimensionado suportar cargas radial axial de torção
+cylindrical mechanical element transmit torque from Rotor coupl load design withstand radial axial and torsional load
+diâmetro comprimento do eixo são normalizados pela iec 60072-1 cada carcaça
+"eixo" pode eixo mecânico (shaft) eixo de gráfico contexto componente motor: eixo shaft metálico rotativo.
+elemento acoplado eixo acionado externamente responsável pelo fluxo de ar de resfriamento em motor IC411 tefc ventilador preso externamente eixo oposto carga
+element coupl shaft or externally driven responsible cool airflow IC411 tefc motor ventilador corrente de partida mount externally non-drive end
+IC01 iec 60034-6 motor autoventilado aberto tenv IC410 tefc IC411 não usar IC01 sinônimo de tenv
+"ic" código de resfriamento (iec 60034-6) pode confundido circuito integrado (ic integrated circuit) contexto motor: ic código numérico método de resfriamento.
+caixa acoplada carcaça do motor contém ordem de serviço terminal elétricos conexão rede de alimentação também pode abrigar resistências de aquecimento sensor PT100 termistor
+box attach motor hous contain electrical terminal connection power supply house space heater PT100 sensor and thermistor
+terminal em motor trifásicos tensao_nominal v1 w1 início tensao_nominal v2 w2 fim ligação estrela triângulo
+sem ambiguidade crítica; "bornes" pode indicar apenas ordem de serviço terminal (sem mencionar caixa). registrar referência caixa completa apenas aos terminais.
+degradação dano componente do rolamento pista interna pista externa elementos rolante gaiola causa frequente de falha em motor elétricos detectável análise de vibração termografia
+degradation or damage bearing component inner race outer race roll element cage most frequent cause electric motor failure detectable vibration analysi and thermography
+subtipos fadiga superficial desgaste corrosão erosão elétrica fluting fretting sobrecarga térmica
+"falha em rolamento" pode iniciada fadiga, contaminação, lubrificação inadequada corrente de eixo registrar causa_raiz associada distinguir subtipos histórico.
+fratura alta resistência em barras condutoras do Rotor gaiola de esquilo provoca assimetria campo magnético aumento de vibração flutuação de torque detectável MCSA motor Current signature analysis
+fracture or high resistance one or more Rotor bars squirrel cage Rotor caus magnetic field asymmetry increas vibration and torque fluctuation detectable MCSA motor Current signature analysi
+característica espectral bandas lateral em torno frequência fundamental de corrente 2ks f
+sinal de MCSA barra quebrada (sb 2ksf) pode confundido desequilíbrio de tensão validar análise de vibração termografia desambiguar.
+falha isolamento permite contato elétrico direto entre duas espiras adjacente do mesmo enrolamento causa aquecimento localizado pode evoluir curto terra entre fase
+insulation failure allow direct electrical contact between two adjacent turn same winding caus localiz heat and evolve ground fault or phase-to-phase fault
+representa 35_ falha em motor industrial detectável análise de corrente termografia testes de resistência de isolamento
+curto entre espiras (intra-bobina) difere de curto entre fase (inter-bobina) curto terra registrar tipo exato; ambos geram aquecimento localizado, mas assinaturas de corrente distintas.
+deterioração do sistema isolante do enrolamento causada envelhecimento térmico contaminação umidade vibração mecânica estresse elétrico sobretensões identificado baixa resistência de isolamento
+deterioration winding insulation system caus thermal aging moisture contamination mechanical vibration or electrical stres overvoltag identifi low insulation resistance
+principal causa envelhecimento térmico temperatura acima classe diagnóstico teste megôhmetro índice de polarização
+"falha de isolamento" pode degradação progressiva (tracking, aging) falha abrupta (perfuração dielétrica) campo historico deve registrar modo de falha.
+condição em ordem de serviço eixo do motor carga não estão perfeitamente coaxial pode angular eixo formam ângulo paralelo eixo paralelos mas deslocados combinado causa vibração excessiva desgaste prematuro de rolamento acoplamento
+condition motor and load shaft not perfectly coaxial angular shaft form angle parallel shaft parallel but offset or combin caus excessive vibration and premature wear bearing and coupling
+detectado vibração dominância em frequência de rotação corrigido alinhamento laser
+desalinhamento angular paralelo produzem assinaturas de vibração similar (2× 1× rpm) registrar tipo confirmado pela análise; não assumir tipo sem medição de alinhamento laser.
+distribuição assimétrica de massa Rotor em relação eixo geométrico gera força centrífuga manifesta vibração dominante frequência de rotação rpm
+asymmetric mass distribution Rotor relative geometric axis generat centrifugal force manifest vibration dominant rotation frequency rpm
+corrigido balanceamento dinâmico adição remoção de massa grau iso 1940
+desequilíbrio de Rotor (mecânico, unbalance) difere de desequilíbrio de tensão (elétrico) campo desequilíbrio de Rotor exclusivo condição mecânica.
+condição em motor opera corrente acima nominal tempo prolongado exceder temperatura máxima classe de isolamento pode causada sobrecarga térmica mecânica subtensão desequilíbrio resfriamento inadequado
+condition motor operat with current above rat extend time exceed maximum temperature insulation clas caus mechanical overload subtensão imbalance or inadequate cool
+proteção relé térmico relé de proteção função 49 proteção térmica de máquina
+sobrecarga térmica térmica pode ter causa elétrica (sobrecorrente) mecânica (torque excessivo carga) registrar causa identificada diferenciar ação corretiva.
+ingresso de agente externos umidade poeira óleo agente químicos interior do motor através de falha grau de proteção corrente de partida causa degradação do isolamento corrosão de componente
+ingres external agent moisture dust oil chemical agent into motor through failure corrente de partida protection degree caus insulation degradation and component corrosion
+prevenido adequada especificação do grau corrente de partida ambiente uso de resistência de aquecimento anti-condensação
+contaminação umidade pode causar falha de isolamento registrar separadamente agente contaminante falha consequente não duplicar ocorrências.
+multiplicador aplicado potência nominal indica capacidade do motor de suportar sobrecarga térmica contínua sem dano isolamento desde respeitadas demal condições nominal
+multiplier appli rat power indicat motor capacity sustain continuou overload without insulation damage provid all rat condition met
+fator de serviço conceito predominante NEMA MG1 iec usa-se sobrecarga térmica permitida s1 s10 tabela de sobrecargas admissíveis
+fator de serviço (fs sf) pode confundido "regime de serviço" (s1–s9) são grandeza distintas: fator de serviço fator multiplicador de sobrecarga térmica contínua admissível (ex.: 1.15); regime de serviço descreve ciclo de operação. fator de serviço 1.0 padrão iec; NEMA MG1 permite fator de serviço 1.0 capacidade de sobrecarga térmica nominal.
+classificação sequência de condições de carga às qual motor submetido incluir partida operação em carga operação em vazio freio elétrico parada define perfil térmico do motor
+classification sequence load condition motor corrente de partida subject includ start on-load operation no-load operation electric brak and rest defin motor thermal profile
+s1 comum carga constante tempo suficiente atingir equilíbrio térmico
+"duty cycle" em eletrônica de potência (%) difere de regime de serviço (s1–s9) de motor usar código iec (s1=contínuo, s2=temporário, etc.) não percentual isolado.
+quantidade de polo magnéticos enrolamento do estator determina diretamente velocidade síncrona do motor quanto maior número de polo menor velocidade
+number magnetic pole estator winding directly determin motor synchronou spe greater number pole lower spe
+fórmula velocidade síncrona 120 f número de polo
+número de polo (minúsculo) número de polos; número de polo (maiúsculo) potência. verificar caixa unidade desambiguar.
+forma ordem de serviço enrolamento do estator são interligados entre si ligação estrela enrolamento suporta tensão de fase ligação triângulo suporta tensão de linha
+method estator winding interconnect star connection winding support phase voltage delta connection support line voltage
+motor dupla tensão placa de identificação indica motor prova de explosão 220 380 tensão 380 660 tensão
+"d" pode delta (triângulo) designação de polo em notação NEMA MG1 contexto de ligação: triângulo; estrela. grafias alternativas: δ, (delta); y, (estrela).
+temperatura do ar redor do motor a potência nominal definida temperatura ambiente de 40 padrão iec operação em ambiente quente requer derate redução de potência
+Temperature air surround motor rat power corrente de partida defin ambient temperature 40 iec standard operation hotter environment requir derat
+cada acima de 40 aplica-se derate de 5_ potência nominal
+temperatura ambiente (ta) difere de temperatura de operação do motor (elevação) ta condição ambiental do local; Altitude delta interno do motor.
+altura instalação acima do nível do mar em altitudes superior 1000 densidade do ar menor reduzir rendimento do resfriamento exigir derate potência nominal
+installation height above sea level altitud above 1000 air density corrente de partida lower reduc cool efficiency and requir derat nominal power
+cada 100 acima de 1000 aplica-se derate de 0.5_ potência nominal
+"altitude" pode referir-se instalação (topográfica) altitude de voo (irrelevante aqui) contexto industrial: altitude cota instalação em metros msnm.
+grau de proteção iec 60529 dois dígitos sólidos líquidos ip5x protegido contra poeira ingresso limitado ip6x totalmente vedado contra poeira exemplo IP55 ingresso limitado de poeira proteção contra jatos de água
+protection degree per iec 60529 two digit solid and liquid ip5x dust-protect limit ingres ip6x dust-tight example IP55 dust-protect water jet proof
+IP55 comum em motor industrial externos proteção total contra poeira jato água de qualquer direção
+corrente de partida pode grau de proteção (is001) internet protocol contexto de placa de identificação de motor, corrente de partida seguido de número grau de proteção.
+classificação do sistema de isolamento do motor baseada temperatura máxima isolante suporta sem degradação significativa de vida útil define Altitude de temperatura admissível
+classification motor insulation system bas maximum temperature insulation withstand without significant degradation service life
+não confundir classe de temperatura motor prova de explosão t1 t6 iec 60079 atmosferas explosivas trata de temperatura de superfície máxima
+classe de isolamento (térmica) pode confundida classe de tensão (isolamento dielétrico) são categorias distintas; classe térmica define temperatura máxima do enrolamento; classe de tensão define suportabilidade dielétrica.
+tipo construtivo de motor projetado operar segurança em atmosferas explosivas gases vapor poeiras inflamáveis classificado zona de risco tipo de proteção Ex motor prova de explosão motor prova de explosão motor prova de explosão tb
+motor constructive type design operate safely explosive atmospher flammable gas vapor or dust classifi hazardou zone and protection type Ex motor prova de explosão motor prova de explosão motor prova de explosão tb
+aplicações refinarias plantas químicas silos requer certificação INMETRO atex placa de identificação marcação motor prova de explosão específica
+motor prova de explosão "d" (encapsulamento prova de chama) difere de motor prova de explosão "e" (segurança aumentada) são modos de proteção distintos diferente zonas proteção contra explosão registrar código completo (ex.: motor prova de explosão iib t4).
+classificação internacional do rendimento de motor elétricos trifásicos de indução definida pela iec 60034-30 em quatro níveis classe de eficiência padrão classe de eficiência alto classe de eficiência premium classe de eficiência super premium
+international classification three-phase induction motor efficiency defin iec 60034-30 four level classe de eficiência standard classe de eficiência high classe de eficiência premium classe de eficiência super premium
+brasil motor novos 0.75_kw devem mínimo classe de eficiência portaria certificação INMETRO 217 2020 vigência partir de 2024
+classe de eficiência (international efficiency) pode confundido "ie" de siglas de equipamento (ex.: instrument electrical) contexto motor número inteiro 1-5: classe de eficiência classe de rendimento energética.
+placa de identificação metálica fixada motor conter ordem de serviço dados nominal de identificação do equipamento exigido pela norma fonte primária de dados técnicos do ativo
+metal plate fix motor contain all nominal and identification data requir standard corrente de partida primary source technical data asset
+campo obrigatórios nbr 17094 fabricante tipo série nº série potência tensão corrente fator de potência rotação regime corrente de partida classe isolamento
+"placa de identificação" pode referir-se documento digital (dados_placa em bd) item físico motor registrar origem: "placa_fisica" (leitura direta) vs. "ficha_cadastro" (dados inseridos manualmente).
+norma abnt especifica requisitos motor de indução trifásicos de gaiola serviço em redes de 50_hz 60_hz alinhada iec 60034 define requisitos de desempenho teste dados de placa de identificação
+abnt standard specify requirement three-phase squirrel cage induction motor 50_hz and 60_hz network align with iec 60034 defin performance test and nameplate data requirement
+substituiu série nbr 7094 composta várias partes cobrir diferente aspectos do motor
+nbr 17094 norma brasileira equivalente iec 60034 registrar conformidade, indicar qual parte norma aplica evitar referência genérica.
+padrão americano publicado pela national electrical manufacturers association especifica requisitos construtivos de desempenho motor elétricos define frames fator de serviço categorias de projeto design a
+american standard publish national electrical manufacturer association specify constructive and performance requirement electric motor defin fram service factor and design category design a
+equipamento importados eua frequentemente seguem NEMA MG1 importante conversão de frames especificações
+NEMA MG1 iec usam sistemas de dimensionamento de carcaça incompatíveis registrar carcaça, indicar padrão (nema carcaça iec motor prova de explosão 256t iec carcaça iec motor prova de explosão 160m) evitar erros de mapeamento.
+identificador alfanumérico único atribuído cada equipamento planta industrial segue convenção de nomenclatura interna normativa isa 5.1 codifica tipo de equipamento área unidade número sequencial
+unique alphanumeric identifier assign piece equipment industrial plant follow internal or normative isa 5.1 nam convention encod equipment type area unit and sequential number
+estrutura típica tipo área número motor prova de explosão mot-0101 motor área 01 equipamento 01
+TAG pode confundido etiqueta rfid/qr (tag físico) contexto de p&id scada: TAG identificador alfanumérico lógico do equipamento, não suporte físico.
+identificador único atribuído pelo fabricante unidade específica do equipamento permite rastreabilidade de fabricação garantia histórico de manutenção
+unique identifier assign manufacturer specific unit equipment enabl manufactur traceability warranty and maintenance history track
+obrigatório placa de identificação de identificação essencial consulta fabricante registros de garantia
+"s/n" pode número de série relação sinal-ruído (signal-to-noise) contexto cadastro de ativo: número de série serial number. contexto análise de sinal: número de série signal-to-noise ratio.
+empresa responsável pela fabricação do motor elétrico principal fabricante mercado brasileiro weg voges toshiba abb siemens weg nidec baldor
+company responsible manufactur electric motor main manufacturer brazilian market weg vog toshiba abb siemen nidec baldor
+importante rastreabilidade de peças manual técnicos suporte pós-venda
+fabricante do motor pode diferir do fabricante do acionamento registrar fabricante especificar do motor, inversor de frequência relé outro componente.
+denominação alfanumérica atribuída pelo fabricante linha versão específica de motor codifica geralmente potência carcaça versão construtiva opcional
+alphanumeric designation assign manufacturer specific motor line or version generally encod power carcaça iec constructive version and option
+fundamental consulta de curvas de desempenho listas de peças manual de manutenção
+"modelo" pode nome comercial (ex. w22) código técnico completo (w22-160m-4-60_hz-15_kw) registrar código técnico completo preferencial; nome comercial em campo auxiliar.
+código hierárquico descreve posição do motor dentro estrutura planta área unidade sistema equipamento conceito central sap pm sistemas cmms
+hierarchical code describ motor position within plant structure area unit system equipment central concept sap pm and cmms system
+a localização funcional hierárquica independe de onde equipamento físico está instalado temporariamente
+localização funcional (posição lógica hierarquia de manutenção) difere de localização física (coordenadas endereço) usar campo apenas hierarquia funcional de manutenção.
+estratégia de manutenção monitora continuamente estado do equipamento meio de técnicas de monitoramento de condição realizar intervenções apenas quar parâmetros indicam iminência de falha
+maintenance strategy continuously monitors equipment condition through condition monitoring techniques performing interventions only parameters indicate imminent failure
+técnicas manutenção preditiva motor análise de vibração termografia MCSA análise de óleo ultrassom análise de corrente
+manutenção preditiva (pdm) difere de manutenção baseada em condição (cbm) em rigor técnico manutenção preditiva usa modelos prognosticos; manutenção preditiva inclui ações reativas Setpoint contexto forzy, tratar equivalentes.
+técnica de diagnóstico não invasivo analisa espectro de frequência corrente de alimentação do motor detectar falha em rolamento barras de Rotor excentricidade problemas de carga
+non-invasive diagnostic technique analyz frequency spectrum motor supply current detect bearing fault Rotor bar fault eccentricity and load problem
+ieee 1159 cobre qualidade de energia elétrica não norma central de diagnóstico MCSA análise de falha assinatura de corrente consultar literatura especializada de manutenção preditiva
+MCSA pode confundido msa (measurement system analysis) de metodologia six sigma contexto motor elétrico: MCSA análise de assinatura de corrente diagnóstico de falhas.
+técnica de inspeção preditiva baseada captura de imagens de radiação infravermelha emitida pelos equipamento identifica pontos quente em conexões elétricas enrolamento rolamento carcaças de motor
+predictive inspection technique bas captur infrar radiation imag emitt equipment identify hot spot electrical connection winding bearing and motor housing
+executada motor em carga diferença de temperatura 20 em conexões indica anomalia grave
+"ir" em termografia (infrared) pode confundido "ir" de resistência de isolamento contexto de manutenção preditiva câmera: resistência de isolamento infrared thermography.
+técnica de monitoramento de condição mede analisa oscilações mecânicas do motor identificar falha em rolamento desequilíbrio de Rotor desalinhamento frouxidão mecânica ressonância
+condition monitor technique measur and analyz mechanical oscillation motor identify bearing fault desequilíbrio de Rotor misalignment mechanical loosenes and resonance
+sensor acelerômetro alta frequência velocímetro frequência média transdutor de deslocamento baixa frequência eixo
+"va" abreviação pode voltampere (elétrico) vibration analysis desambiguar pelo contexto: número seguido de "va" sem unidade de vibração voltampere; análise técnica de vibração análise de vibração preditiva.
+técnica de análise laboratorial examina amostras de lubrificante graxa óleo de mancal redutor detectar contaminação degradação partículas de desgaste metálico
+laboratory analysi technique examin lubricant sampl grease or oil from bearing and gearbox detect contamination degradation and metallic wear particl
+aplicável em mancal de escorregamento redutor motor rolamento análise de graxa menos comum
+análise de óleo em motor elétrico refere-se lubrificante rolamento transformador de partida qualificar: análise_oleo_rolamento vs. análise_oleo_transformador.
+indicador de confiabilidade representa tempo médio de operação entre falha consecutivas de equipamento calculado pelo total de horas de operação dividido pelo número de falha período
+reliability indicator represent average operat time between consecutive failure piece equipment calculat total operat hour divid number failure period
+MTBF tempo total de operação número de falha quanto maior confiável equipamento
+MTBF aplica-se itens reparáveis; mttf (mean time failure) aplica-se itens não reparáveis motor elétrico industrial item reparável usar MTBF
+indicador de manutenção representa tempo médio necessário reparar colocar equipamento novamente em operação após falha incluir diagnóstico substituição testes
+maintenance indicator represent average time need repair and return equipment operation after failure includ diagnosi replacement and test
+MTTR tempo total de reparo número de falha menor MTTR indica maior capacidade de resposta equipe de manutenção
+MTTR pode significar "mean time repair" "mean time restore" (inclui tempo logístico) adotar iec 60050-191: MTTR tempo de reparo ativo, excluir espera peças.
+total de horas em motor esteve energizado em operação parâmetro fundamental programação de manutenções periódicas cálculo de indicador de confiabilidade
+total hour motor has energiz and operation fundamental parameter schedul periodic maintenance and calculat reliability indicator
+monitorado horas de operação físico sistema scada dcs usado calcular intervalo de troca de graxa revisão geral etc
+horas de operação total diferem de horas de operação desde última manutenção manter dois campo separados: horímetro (cumulativo desde instalação) horas_desde_manutencao.
+sensor de temperatura do tipo PT100 detector de temperatura resistência baseado em platina resistência de 100 usado monitoramento de temperatura em enrolamento classe max 180 mancal
+PT100 resistance Temperature detector type temperature sensor bas platinum with resistance 100 used temperature monitor winding clas max 180 and bearing
+embedded enrolamento fabricação sensor em motor grandes requer transmissor entrada analógica clp scada
+PT100 ntc/ptc são tecnologias de sensor de temperatura distintas PT100 PT100 (resistência metálica linear); ptc/ntc são termistor (resposta não linear). não intercambiar.
+sensor de temperatura resistência aumenta drasticamente acima de temperatura de comutação definida usado proteção binária liga desliga contra sobrecarga térmica em motor instalado enrolamento
+Temperature sensor with resistance increas dramatically above defin switch temperature used binary protection off against sobrecarga térmica motor install winding
+aciona relé de proteção desliga motor simples PT100 sem medição contínua de temperatura
+termistor PTC (positive Temperature coefficient) termistor de proteção difere de termistor PTC elemento de aquecimento autolimitante contexto de proteção de motor: termistor PTC termistor de desarme em enrolamento.
+sensor mede aceleração de vibração de ponto do equipamento baseado efeito piezoelétrico fornece sinal proporcional aceleração integrável obter velocidade deslocamento de vibração
+sensor measur vibration acceleration point equipment bas piezoelectric effect provid signal proportional acceleration integrable obtain vibration velocity and displacement
+montado mancal tampa de mancal conexão parafuso adesivo cabo bnc m12
+"acc" pode acelerômetro acumulador (de pressão hidráulica) contexto sensor de vibração: acc acelerômetro. especificar tipo iepe (alimentação corrente constante) mems.
+dispositivo eletromecânico acoplado eixo do motor converte posição movimento angular em pulsos elétricos fornece feedback de posição velocidade sistemas de controle inversor de frequência
+electromechanical device coupl motor shaft convert angular position or motion into electrical puls provid position and spe feedback control system and frequency inverter
+tipos incremental velocidade posição relativa absoluto posição absoluta essencial em servo-drives controle vetorial
+"encoder" pode encoder de posição (incremental/absoluto) encoder de vídeo/áudio (compressão) contexto motor elétrico: encoder sensor de posição angular rotativo.
+dispositivo eletrônico controla velocidade do motor variar frequência tensão de alimentação permite partida suave controle de torque economia de energia em cargas variáveis bomba ventilador compressor
+electronic device control motor spe vary supply frequency and voltage enabl soft start torque control and energy saving variable load pump fans compressor
+motor alimentados inversor de frequência devem classe de eficiência especial inverter-duty geram harmônicos tensões de modo comum podem degradar rolamento corrente de eixo
+"conversor" pode conversor de frequência (vfd), conversor a/d conversor de protocolo contexto acionamento de motor: conversor conversor de frequência (vfd/inversor).
+dispositivo monitora parâmetros elétricos do motor corrente tensão temperatura atua disjuntor contator proteger motor contra sobrecarga térmica falta de fase subtensão outros distúrbios
+device monitor motor electrical parameter current voltage temperature and acts circuit breaker or contactor protect motor against overload phase loss subtensão and disturbanc
+funções ansi comuns 49 térmica 51 sobrecorrente 46 sequência negativa falta de fase 27 subtensão
+relé de proteção (função elétrica) difere de relé de controle (lógica de comando) registrar código de função ansi desambiguar tipo; motor prova de explosão relé 49 proteção térmica de motor.
+rede de dispositivos físicos industrial interconectados capacidade de coleta processamento transmissão de dados operacional via protocolos de comunicação mqtt opc-ua plataformas de análise manutenção preditiva
+network interconnect industrial physical devic capable collect process and transmitt operational data via communication protocol mqtt opc-ua analytic and predictive maintenance platform
+protocolos comuns mqtt opc-ua modbus tcp profinet ethernet IP
+IIoT (industrial iot) ecossistema; mqtt opc-ua são protocolos específicos registrar nível de abstração correto: campo telemetria de sensor protocolo usado, não conceito genérico.
+representação digital dinâmica de ativo físico motor elétrico replica comportamento estado histórico em tempo real alimentado dados de sensor modelos físicos histórico de manutenção suporte decisão
+dynamic digital representation physical asset electric motor replicat behavior state and history real time fed sensor data physical model and maintenance history decision support
+núcleo do projeto forzy digital twin do motor integra dados de pln telemetria de sensor modelos de degradação
+digital twin pode instância de dados (data twin), modelo de simulação (simulation twin) twin de processo (process twin) especificar tipo registro orientar ordem de serviço módulos de pln próximas sprints.
+componente potência elétrica oscila entre fonte carga sem convertida em trabalho em motor de indução consumida criar campo magnético redução melhora fator de potência
+component electrical power oscillat between source and load without being convert work induction motor corrente de partida consum create magnetic field reduction improv power factor
+potência reativa número de polo tan compensada banco de capacitor melhorar fator de potência reduzir demanda de kva
+potência reativa pode potência reativa (kvar), fator de qualidade de bobina fluxo volumétrico em sistemas de refrigeração contexto elétrico: potência reativa kvar potência reativa.
+diferença entre temperatura do enrolamento outra parte do motor em regime permanente temperatura ambiente de referência 40 limite definidos pela classe de isolamento
+difference between winding or motor part temperature steady state and reference ambient temperature 40 limit defin insulation clas
+ensaio de Altitude de temperatura testes de tipo obrigatórios pela iec 60034-1
+Altitude de temperatura (k) difere temperatura absoluta de operação (°c) Altitude delta entre temperatura do enrolamento temperatura ambiente; não substituir valor absoluto.
+resistência elétrica instalada interior do motor opera quar motor está parado manter temperatura interna ligeiramente acima temperatura ambiente evitar condensação de umidade ordem de serviço enrolamento
+electrical resistance install inside motor operat motor corrente de partida stopp maintain internal temperature slightly above ambient temperature prevent moisture condensation winding
+alimentada circuito auxiliar independente 220 tensão otensao_nominal 110_v deve desligada de energizar motor
+"resistência de aquecimento" (space heater) não confunde resistência de isolamento; ambas usam "r" em siglas qualificar: r_heat aquecimento; r_iso isolamento.
+condição em três fase de alimentação do motor trifásico perdida motor continua operar apenas duas fase causar corrente elevadas fase remanescente sobrecarga térmica severo
+condition one three supply phase three-phase motor corrente de partida lost motor continue operat only two phase caus very high current remain phase and severe sobrecarga térmica
+não protegido causa queima enrolamento em minutos detectado relé ansi 46 sequência negativa de corrente
+falta de fase pode confundida desequilíbrio de tensão severo distinguir: falta de fase tensão zero em fase; desequilíbrio assimetria percentual sem perda total.
+falha de isolamento estabelece caminho condutor entre enrolamento do motor carcaça terra situação perigosa pessoas equipamento detectado relé diferencial relé de terra
+insulation failure establish conductive path between motor winding and hous ground dangerou situation people and equipment detect differential relay or ground fault relay
+identificado resistência de isolamento mω requer reparo imediato do enrolamento substituição do motor
+curto terra (fase-terra) difere de curto entre fase (fase-fase) registrar impedância de falta: baixa (<1 ω) curto direto; alta (>1 kω) falta de alta impedância.
+aplicação de lubrificante geralmente graxa rolamento do motor reduzir atrito desgaste dissipar calor proteger contra corrosão realizada em intervalos definidos horas de operação calendário
+application lubricant usually grease motor bearing reduce friction and wear dissipate heat and protect against corrosion perform interval defin operat hour or calendar
+excesso de graxa tão prejudicial quanto falta temperatura principal fator de determinação do intervalo
+intervalo de lubrificação varia temperatura, velocidade carga não usar intervalo padrão sem verificar condições de operação. registrar condições de cálculo junto intervalo.
+corrente absorvida pelo motor momento partida direta quar Rotor está parado tipicamente de vezes corrente nominal pode causar quedas de tensão rede acionamento de proteções
+Current absorb motor moment direct start Rotor corrente de partida rest typically tim rat current cause voltage drop network and protection tripp
+reduzida partida suaves estrela-triângulo autotransformador soft-starter inversor de frequência
+corrente de partida (corrente de partida) pode confundido corrente de partida de proteção de relés (pickup current) contexto de motor em partida especificação de placa de identificação corrente de partida corrente de arranque.
+velocidade de rotação do campo magnético giratório criado pelo estator determinada exclusivamente pela frequência rede pelo número de polo do motor Rotor nunca alcança velocidade síncrona há sempre escorregamento
+rotational spe rotat magnetic field creat estator determin solely network frequency and number motor pole Rotor never reach synchronou spe there corrente de partida alway slip
+polo 60_hz velocidade síncrona 1800 rotação polo 50_hz velocidade síncrona 1500 rotação
+velocidade síncrona (ns) difere velocidade nominal do Rotor (nr velocidade síncrona (1−s)) velocidade síncrona valor calculado; nr valor medido/de placa de identificação não substituir pelo outro.
+certificação obrigatória emitida pelo certificação INMETRO instituto nacional de metrologia qualidade tecnologia comercialização de motor elétricos trifásicos brasil atestar conformidade requisitos de rendimento energética
+mandatory certification issu certificação INMETRO brazilian national institute metrology quality and technology market three-phase electric motor brazil attest conformity with energy efficiency requirement
+número certificação INMETRO deve constar placa de identificação do motor documentação consulta em www.inmetro.gov.br
+certificação certificação INMETRO (eficiência energética) difere de certificação atex/ex (área classificada) ambas podem presente mesmo motor; registrar separadamente em certificação INMETRO proteção contra explosão
+designação normalizada pela iec 60072-1 define dimensões de montagem altura de eixo distância entre furos de fixação do motor garante intercambiabilidade entre fabricante
+designation standardiz iec 60072-1 defin motor mount dimension shaft height and fix hole spac ensur interchangeability between manufacturer
+número altura do eixo em mm letras indicam comprimento do pacote do estator
+carcaça iec NEMA MG1 usam sistemas numéricos distintos iec 160m NEMA MG1 160. indicar norma explicitamente; não comparar frames de sistemas diferente sem tabela de conversão.
+metodologia estruturada identificar causas fundamental de falha de equipamento visar eliminar causa raiz prevenir recorrência utiliza técnicas diagrama de ishikawa porquês árvore de falha
+structur methodology identify fundamental caus equipment failure aim eliminate root cause and prevent recurrence uses technique ishikawa diagram whys and fault tree analysi
+documentar análise de causa raiz histórico do ativo alimenta base de conhecimento do digital twin
+análise de causa raiz pode root cause analysis "residual current analyser" (relé de corrente residual) contexto manutenção preditiva ordem de serviço: análise de causa raiz análise de causa raiz.
+campo textual livre do cadastro do ativo identifica equipamento em linguagem natural incluir tipo função localização características operacional relevante manutenção operação
+free-text field asset record identify equipment natural language includ type function location and operational characteristic relevant maintenance and operation
+campo obrigatório cadastro do ativo deve seguir padrão tipo potência porte função usado entrada primária modelos de pln busca semântica
+sem ambiguidade de desambiguação técnica; padronizar formato habilitar busca estruturada parsing automático módulo de pln.
+conjunto estruturado de parâmetros técnicos nominal do ativo extraídos placa de identificação de identificação do manual do fabricante define faixa de operação segura serve de referência monitoramento manutenção
+structur set nominal technical parameter asset extract from nameplate or manufacturer manual defin safe operat range and serv reference monitor and maintenance
+campo consolidado agrega tensão corrente potência rotação classe_termica grau_de_protecao essencial geração automática de relatórios do digital twin
+"especificação técnica" pode documento do fabricante (datasheet) especificação de compra (purchase specification) registrar tipo de documento: "datasheet_fabricante" vs. "especificacao_compra".
+métrica expressa conteúdo harmônico total de forma de onda percentual componente fundamental thd-v tensão thd-i corrente valor altos causam sobrecarga térmica redução de rendimento
+metric express total harmonic content waveform percentage fundamental component thd-v voltage thd-i current high value cause sobrecarga térmica and efficiency reduction
+diferente de harmônicos GE010 distorção harmônica total métrica agregada harmônicos são componente individual
+distorção harmônica total pode expresso percentual fundamental (thd-f) do valor rms total (thd-r) valor divergem; registrar variante usada. ieee 519 usa thd-f.
+motor elétrico ca comum indústria operar indução eletromagnética entre estator Rotor sem contato elétrico direto disponível em Rotor de gaiola robusto Rotor bobinado anéis coletor controle de torque
+most common industrial ac motor operat electromagnetic induction between estator and Rotor without direct electrical contact available with squirrel cage Rotor more robust or wound Rotor slip ring torque control
+tipo de ativo primário do projeto forzy subtipos Rotor gaiola TM002 Rotor bobinado TM003
+"motor de indução trifásico" hiperônimo engloba gaiola de esquilo Rotor bobinado registrar subtipo em campo complementar (tipo_rotor: gaiola_esquilo rotor_bobinado) granularidade de pln.
+subtipo de motor de indução Rotor formado barras condutoras curto-circuitadas extremidade robusto econômico de menor manutenção não permite controle direto de resistência de Rotor
+induction motor subtype with Rotor form conductive bars short-circuit both ends most robust economical and low-maintenance does not allow direct Rotor resistance control
+amplamente utilizado inversor VFD falha típica barras quebradas do Rotor TF003
+motor de gaiola de esquilo subtipo de motor de indução trifásico registrar motor inverter-duty garantir hierarquia pai-filho seja mantida: motor inverter-duty gaiola_esquilo implica motor_inducao_trifasico.
+motor de indução Rotor bobinado anéis coletor inserção de resistências externas permitir controle de torque de partida velocidade maior manutenção de gaiola escovas anéis
+induction motor with wound Rotor and slip ring external resistance insertion allow start torque and spe control more maintenance than cage type brush and ring
+usado em cargas alto torque de partida compressor guindastes manutenção adicional escovas de grafite anéis coletor
+motor de Rotor bobinado pode chamado de "motor de anéis" (slip-ring motor) ambas denominações são corretas; normalizar "motor_rotor_bobinado" independente nomenclatura usada.
+motor ca opera exatamente velocidade síncrona sem escorregamento campo do Rotor gerado ímãs permanente pmsm excitação cc usado em aplicações de alta rendimento IE4 IE5 velocidade precisa
+ac motor operat exactly synchronou spe slip with Rotor field generat permanent magnet pmsm or dc excitation used high-efficiency IE4 IE5 and precise-spe application
+não confundir velocidade síncrona parâmetro de ordem de serviço motor ca motor síncrono tipo específico
+"motor síncrono" pode de ímã permanente (pmsm) de excitação em campo (sm clássico) curvas de torque estratégias de controle diferem; registrar subtipo correto dimensionamento de inversor de frequência
+motor certificado operação em atmosferas potencialmente explosivas gases vapor poeiras classificado zona Ex motor prova de explosão motor prova de explosão grupo de gás requer certificação proteção contra explosão europa nec eua
+motor certifi operation potentially explosive atmospher gas vapor or dust classifi zone Ex motor prova de explosão motor prova de explosão and gas group requir proteção contra explosão or nec certification
+temperatura de superfície máxima classificada t1 t6 iec 60079 não confundir classe de isolamento temperatura de enrolamento
+motor prova de explosão não sinônimo de motor prova de faíscas (spark-proof) motor resistente intempéries (weather protected) distinções críticas segurança em área classificada.
+motor projetado operação inversor de frequência isolamento reforçado mín classe suportar picos dv dt rolamento proteção antieletrostática ventilação forçada baixas velocidade
+motor design inversor de frequência operation with reinforc insulation min clas withstand dv dt spik anti-static bearing protection and forc ventilation low-spe operation
+obrigatório em operação contínua abaixo de 30_hz cabo vfd-motor 10 sem filtro de saída
+nem motor de indução pode acionado inversor de frequência sem adaptações motor_inverter_duty possui isolamento reforçado (iec 60034-17/25) ventilação independente; registrar motor não adequado inversor de frequência
+método de partida em motor conectado diretamente rede em plena tensão corrente de partida simples econômico mas causa alto impacto elétrico mecânico
+start method connect motor directly full voltage start current rat simple and economical but caus high electrical and mechanical stres
+indicado motor pequenos 11_kw onde impacto rede aceitável
+partida direta (dol) gera corrente de inrush de 5–8× não confundir "partida suave" (soft-starter). registrar corrente de partida medida estimada documentar tipo de partida.
+dispositivo eletrônico tiristor reduz tensão de partida progressivamente diminuir corrente torque aceleração não permite controle contínuo de velocidade em regime permanente
+electronic device using thyristor progressively reduce start voltage lower current and torque dur acceleration does not provide continuou spe control steady state
+diferente do inversor de frequência SI005 soft-starter não controla velocidade em regime permanente
+soft-starter reduz corrente de partida mas não controla velocidade em regime difere fundamentalmente do inversor de frequência (inversor). documentar acionamento, distinguir: soft_starter (apenas partida) vs. inversor de frequência (controle contínuo de velocidade).
+conjunto de painéis elétricos abriga dispositivos de proteção medição controle de motor industrial disjuntor contator relés medidor clps centraliza acionamento monitoramento ativos
+assembly electrical panel hous protection measurement and control devic industrial motor breaker contactor relay meter plcs centraliz asset actuation and monitor
+localização do centro de controle de motor campo de cadastro relevante rastreabilidade digital twin
+"ccm" pode centro de controle de motor controle de ciclo de máquina (em alguns sistemas scada) contexto de localização elétrica: centro de controle de motor motor control center (mcc).
+sinal automático gerado quar parâmetro operacional ultrapassa limiar configurado indica condição anormal requer atenção do operador sem necessidade de desligamento imediato
+automatic signal generated operational parameter exceeds configured Setpoint indicates abnormal condition requiring operator attention without immediate shutdown
+hierarquia típica informação alarme alarme desarme registrar timestamp iso 8601 TAG do ativo
+"alarme" isa 18.2 exige ação do operador; "notificação" informativa sem ação requerida registrar intertravamento corretamente: alarme notificação; impacta kpis de gestão de alarmes.
+desligamento automático do motor atuação de dispositivo de proteção relé inversor clp quar parâmetro excede limite crítico requer investigação de causa-raiz de religamento
+automatic motor shutdown triggered protection device relay inversor de frequência plc parameter exceeds critical limit requir root cause investigation before restart
+causas comuns sobrecorrente sobretemperatura falta de fase isolamento subtensão diferente de alarme desarme desliga imediatamente
+"trip" pode desarme de proteção elétrica (relé) parada de emergência (e-stop) registrar origem: "trip_protecao" (relé 49/50/51 etc.) vs. "parada_emergencia" (botão e-stop sis).
+campo de log estado atual do motor valor em operação parado em manutenção indisponível em alarme em falha essencial cálculo de Status operacional MTBF MTTR
+log field with motor current state value runn stopp under maintenance unavailable alarm fault essential availability MTBF and MTTR calculation
+registrar timestamp iso 8601 TAG do ativo variável de contexto em modelos de pln
+"parado" pode parada programada (shutdown) parada falha (fault trip) usar valor distintos: "parado_programado" vs. "parado_falha" diferenciar causas pipeline de dados.
+documento registro digital formaliza atividade de manutenção em ativo contém TAG do ativo tipo de manutenção descrição data técnico peças resultado fonte primária de corpus pln
+document or digital record formaliz maintenance activity asset contain asset TAG maintenance type description date technician part and result primary nlp corpu source
+a descrição textual ordem de serviço requer normalização de abreviações padronização de vocabulário técnico
+"os" pode ordem de serviço operating system contexto manutenção industrial: ordem de serviço ordem de serviço (work order). usar "numero_ordem_servico" desambiguar em integrações de dados.
+condição lógica de segurança impede partida causa desligamento do motor quar condições de processo segurança não são satisfeitas ex nível baixo de óleo porta aberta equipamento associado em falha
+safety logic condition prevent motor start or caus shutdown proces or safety condition not met e.g low oil level open door associat equipment fault
+intertravamento devem documentados cadastro do ativo registrados logs causa estado
+"intertravamento" de segurança (sis iec 61511) difere de intertravamento de processo (bpcs) registrar origem do intertravamento classificação de criticidade de segurança funcional.
+registro automático data hora exata de evento alarme medição mudança de Status operacional deve seguir padrão iso 8601 ex 2026-04-29t14 32 05z interoperabilidade
+automatic record exact date and time event alarm measurement or Status operacional change follow iso 8601 standard e.g 2026-04-29t14 32 05z interoperability
+campo obrigatório em ordem de serviço registros de log usar utc utc offset explícito
+timestamps sem fuso horário são ambíguos em plantas operação 24h fuso variável adotar utc padrão de armazenamento; exibir em horário local apenas camada de apresentação.
+valor de referência partir do qual sistema gera alarme desarme ação de controle motor prova de explosão setpoint temperatura 80 alarme 95 trip setpoint vibração 4.5_mm alarme
+reference value above or below system generat alarm desarme or control action e.g temperature setpoint 80 alarm and 95 trip vibration setpoint 4.5_mm alarm
+setpoints devem cadastrados ativo variável monitorada
+Setpoint pode de velocidade (rpm), corrente (a), temperatura (°c) qualquer grandeza controlada registrar sempre unidade variável de referência evitar erros de escala.
+contador acumulado de horas de operação efetiva do motor desde instalação último reset parâmetro fundamental manutenção preventiva baseada em tempo cálculo de MTBF MTTR
+accumulat counter effective motor operat hour since installation or last reset fundamental time-bas preventive maintenance and MTBF MTTR calculation
+registrar timestamp cada leitura alguns inversor clps fornecem horas de operação parcial sessão
+horas de operação horas de operação são mesma grandeza EL008 representa leitura do instrumento físico; MP008 representa dado sistema. manter ambos reconciliar periodicamente detectar divergência.
+corrente do motor acima do valor nominal de forma sustentada transitória causas sobrecarga térmica mecânica falha Rotor bloqueio desequilíbrio de tensão detectada relé de sobrecorrente inversor
+motor current above rat value sustain or transient form caus mechanical overload Rotor fault blockage voltage desequilíbrio de Rotor detect sobrecorrente relay or inversor de frequência
+diferente de sobrecarga térmica térmica TF007 sobrecorrente grandeza elétrica instantânea sobrecarga térmica térmica integra efeito térmico longo do tempo
+sobrecorrente pode causada sobrecarga térmica mecânica, curto-circuito falta de fase registrar causa raiz; assinatura de corrente difere em cada caso.
+tensão de alimentação do motor acima de 110_ do valor nominal período prolongado pode causar sobrecarga térmica aumento de perda núcleo redução vida útil do isolamento
+motor supply voltage exceed 110_ rat value prolong period cause sobrecarga térmica increas core loss and reduc insulation life
+monitorar em conjunto subtensão TF013 desequilíbrio de tensão GE008
+sobretensão transitória (surto) difere de sobretensão sustentada registrar duração: motor síncrono surto; regime de serviço sobretensão sustentada. impactos motor são distintos.
+tensão de alimentação abaixo de 90_ do valor nominal causa aumento de corrente motor tenta manter potência aquecimento excessivo possível desarme sobrecorrente
+supply voltage below 90_ rat value caus current increase motor try maintain power excessive heat and possible sobrecorrente desarme
+frequente em alimentações de gerador redes sobrecarregadas verificar qualidade energia GE010 GE012
+subtensão pode causar sobrecorrente compensatória registrar falha de subtensão, verificar houve disparação sobrecorrente subsequente registrar evento encadeado.
+folgas afrouxamento em parafusos de fundação acoplamento suportes causar vibração múltiplos harmônicos inteiros frequência de rotação espectro fft pé manco caso em apenas ponto de apoio está afrouxado
+loosenes foundation bolt coupl or support caus vibration with multiple integer harmonics rotation frequency fft spectrum soft foot corrente de partida case only one support point corrente de partida loose
+identificado harmônicos inteiros de subarmônicos espectro fft confirmar inspeção visual torquímetro
+frouxidão mecânica pode mascarar simular desalinhamento análises de vibração confirmar via análise de fase de vibração inspeção visual de registrar tipo de falha.
+corrente elétrica circula pelo eixo rolamento estrutura em motor alimentados inversor causar erosão pistas fluting falha prematura mitigada rolamento isolados filtros dv dt aterramento de eixo
+electrical current flow through shaft bearing and carcaça iec vfd-driven motor caus raceway erosion flut and premature failure mitigat insulat bearing dv dt filter and shaft ground
+frequente em motor inversor cabo longo inspecionar pistas de rolamento microscopia em manutenções programadas
+corrente de eixo especialmente relevante em motor acionados inversor de frequência registrar motor possui aterramento de eixo (shaft grounding ring) rolamento isolados medida preventiva.
+conjunto de dados brutos coletados continuamente sensor instalados motor elétrico temperatura vibração corrente tensão transmitidos via protocolo IIoT mqtt opc-ua alimentar digital twin em tempo real
+set raw data continuously collect sensor install electric motor temperature vibration current voltage and transmitt via IIoT protocol mqtt opc-ua feed digital twin real time
+pipeline de telemetria camada de entrada do digital twin dados brutos devem validados range check spike detection de alimentar ordem de serviço modelos de pln predição
+telemetria pode referir-se dado bruto (raw telemetry) dado processado (processed signal) registrar campo 'nivel_processamento': raw filtered aggregated feature.
+representação matemática baseada em dados descreve progressão do desgaste deterioração de componente do motor longo do tempo utilizada estimar vida útil remanescente rul antecipar falha
+mathematical or data-driven representation describ progression wear or deterioration motor component over time used estimate remain useful life rul and anticipate failure
+modelos físicos ex equação de arrhenius isolamento lei de palmgren-miner fadiga de rolamento devem combinados modelos de frouxidão mecânica maior acurácia contexto forzy
+rul (remaining useful life) difere de mttf (mean time failure) rul específico estado atual do ativo; mttf estatístico populacional. registrar explicitamente qual métrica modelo fornece.
+processo de atualização contínua periódica do digital twin ordem de serviço dados recente do ativo físico garantir estado representado réplica digital reflita fidelidade condição operacional atual do motor
+continuou or periodic update proces digital twin with most recent data from physical asset ensur state represent digital replica faithfully reflect motor current operational condition
+a sincronização deve incluir metadados de contexto timestamp qualidade do sinal fonte ordem de serviço módulos de pln possam rastrear proveniência dados gerados em linguagem natural
+sincronização de estado difere de replicação de dados (cópia integral do banco) state sync atualiza apenas ordem de serviço campo mudaram (delta sync); replicação copia tudo. adotar delta sync rendimento
+estrutura formal define ordem de serviço conceitos relações propriedade do domínio de motor elétricos industrial representada grafo de conhecimento fundamenta consulta semântica geração de linguagem natural coerente vocabulário técnico do projeto
+formal structure defin concept relationship and property industrial electric motor domain represent knowledge graph underpin semantic query and generation natural language consistent with project technical vocabulary
+glossário bilíngue desta sprint fonte primária popular ontologia cada termo do glossário corresponde classe instância grafo campo relacao_hierarquica de cada entrada já define relações inicial
+ontologia (owl formal) difere de taxonomia (hierarquia simples) de dicionário de dados (tabela plana) glossário desta sprint dicionário deve evoluir ontologia owl sprints de consulta semântica.
+módulo do sistema de pln responsável transformar dados estruturados do digital twin telemetria alertas histórico de falha em textos técnicos legíveis humanos relatórios de manutenção ordens de serviço notificações de alarme em linguagem natural
+nlp system module responsible transform structur digital twin data telemetry alert failure history into human-readable technical text maintenance report work order and alarm notification natural language
+geração de linguagem natural entregável final visível usuário de manutenção a qualidade saída depende diretamente padronização terminológica desta sprint vocabulário controlado regras de normalização desambiguação devem usados retrieval context pipeline rag
+geração de linguagem natural difere de nlu (natural language understanding entrada) de nlp (guarda-chuva geral). pipeline forzy: dados digital twin geração de linguagem natural texto usuário. nlu usado direção inversa (usuário faz pergunta sistema responde).

@@ -1,0 +1,791 @@
+variante,termo_canonico
+absolute encoder,Encoder
+ac drive,Inversor de Frequência
+ac induction motor,Motor de Indução Trifásico
+accel.,Acelerômetro
+acionamento_tipo,Inversor de Frequência
+acr,Análise de Causa Raiz
+across-the-line starting,Partida Direta
+active alarm,Alarme
+aging model,Modelo de Degradação
+ai-generated report,Geração de Linguagem Natural
+alarm condition,Alarme
+alarme ativo,Alarme
+alert,Alarme
+alerta,Alarme
+alm,Alarme
+alt.,Altitude
+altitude de operação,Altitude
+altitude_instalacao_m,Altitude
+ambient air temperature,Temperatura Ambiente
+amperage,Corrente
+amperagem,Corrente
+amplitude de vibração,Vibração
+angular misalignment,Desalinhamento
+angular velocity,Rotação
+anti-condensation heater,Resistência de Aquecimento
+análise de assinatura de corrente do motor,MCSA
+análise de falha,Análise de Causa Raiz
+análise de lubrificante,Análise de Óleo
+análise espectral,Análise de Vibração
+análise lubrificante,Análise de Óleo
+ao.,Análise de Óleo
+aquecedor de motor,Resistência de Aquecimento
+aquecimento do motor,Elevação de Temperatura
+armature winding,Enrolamento
+asset description field,Descrição do Ativo
+asset knowledge graph,Ontologia do Ativo
+asset ontology,Ontologia do Ativo
+asset semantic model,Ontologia do Ativo
+asset status,Status Operacional
+asset tag,TAG
+asset-replica sync,Sincronização de Estado
+atex,Proteção contra Explosão
+atualização do gêmeo,Sincronização de Estado
+atuação de proteção,Desarme
+automated narrative,Geração de Linguagem Natural
+automated text generation,Geração de Linguagem Natural
+av.,Análise de Vibração
+availability status,Status Operacional
+aviso,Alarme
+baixa tensão,Subtensão
+ball bearing,Rolamento
+barra rompida,Barra de Rotor Quebrada
+bearing assembly,Rolamento
+bearing current,Corrente de Eixo
+bearing damage,Falha em Rolamento
+bearing defect,Falha em Rolamento
+bearing failure,Falha em Rolamento
+bearing greasing,Lubrificação
+bearing temperature,Temperatura
+bloqueio de segurança,Intertravamento
+bobinagem,Enrolamento
+borne,Caixa de Ligação
+brand,Fabricante
+brazilian conformity certification,Certificação INMETRO
+brazilian motor standard,NBR 17094
+brb,Barra de Rotor Quebrada
+brg.,Rolamento
+brg_fault,Falha em Rolamento
+cage motor,Motor de Rotor Gaiola de Esquilo
+caixa de terminais,Caixa de Ligação
+campo de descrição,Descrição do Ativo
+carc.,Carcaça
+carcaca_frame,Carcaça
+carcaca_iec,Carcaça IEC
+carimbo de tempo,Timestamp
+cbm,Manutenção Preditiva
+cc-esp.,Curto-Circuito entre Espiras
+cc-terra,Curto à Terra
+ccm,Centro de Controle de Motores
+ce,Corrente de Eixo
+certificacao_inmetro,Certificação INMETRO
+certificado de conformidade,Certificação INMETRO
+chave de partida direta,Partida Direta
+chave eletrônica de partida,Soft-Starter
+chemical contamination,Contaminação
+chumaceira,Rolamento
+ciclo de serviço,Regime de Serviço
+cl. temp.,Classe de Isolamento
+classe de temperatura do isolamento,Classe de Isolamento
+classe térmica,Classe de Isolamento
+classe_eficiencia_ie,Classe de Eficiência
+classe_isolamento,Classe de Isolamento
+classe_termica_isolamento,Enrolamento
+codificador de posição,Encoder
+coil winding,Enrolamento
+componente_estator,Estator
+componente_rotor,Rotor
+componentes harmônicos,Harmônicos
+compulsory certification,Certificação INMETRO
+condition-based maintenance,Manutenção Preditiva
+condição de alarme,Alarme
+condição de bloqueio,Intertravamento
+condição do ativo,Status Operacional
+conectividade_iiot,Telemetria de Sensor
+configured threshold,Setpoint
+conjugado,Torque
+conn.,Ligação do Enrolamento
+connection box,Caixa de Ligação
+constant speed motor,Motor Síncrono
+contador de horas,Horímetro
+contam,Contaminação
+contam.,Contaminação
+contaminação por umidade,Contaminação
+conversor de frequência,Inversor de Frequência
+cooling blower,Ventilador
+cooling impeller,Ventilador
+corpo do motor,Carcaça
+corr.,Corrente
+corrente de arranque,Corrente de Partida
+corrente de descarga,Corrente de Eixo
+corrente excessiva,Sobrecorrente
+corrente parasita de eixo,Corrente de Eixo
+corrente_nominal_a,Corrente
+corrente_partida_a,Corrente de Partida
+cos phi,Fator de Potência
+cos φ,Fator de Potência
+cosseno phi,Fator de Potência
+coupling misalignment,Desalinhamento
+critical fault,Desarme
+current harmonics,Harmônicos
+current intensity,Corrente
+curto ao terra,Curto à Terra
+curto entre espiras,Curto-Circuito entre Espiras
+curtocircuito de enrolamento,Curto-Circuito entre Espiras
+curva de vida útil,Modelo de Degradação
+cx. lig.,Caixa de Ligação
+câmera termográfica,Termografia
+código de instrumento,TAG
+código do ativo,TAG
+código do modelo,Modelo
+dados de placa,Especificação Técnica
+dados de sensores em tempo real,Telemetria de Sensor
+dados iiot,Telemetria de Sensor
+dados_placa,Placa de Identificação
+dar,Índice de Polarização
+data e hora do evento,Timestamp
+data plate,Placa de Identificação
+datasheet,Especificação Técnica
+defeito de rolamento,Falha em Rolamento
+deg. model,Modelo de Degradação
+degradação de isolamento,Falha de Isolamento
+delta connection,Ligação do Enrolamento
+desalin.,Desalinhamento
+desalinhamento de acoplamento,Desalinhamento
+desalinhamento de eixo,Desalinhamento
+desbalanceamento,Desequilíbrio de Rotor
+desbalanceamento de tensão,Desequilíbrio de Tensão
+desbalanceamento dinâmico,Desequilíbrio de Rotor
+desbalanceamento estático,Desequilíbrio de Rotor
+desc.,Descrição do Ativo
+descricao_ativo,Geração de Linguagem Natural
+descrição do equipamento,Descrição do Ativo
+descrição funcional,Descrição do Ativo
+deseq. rot.,Desequilíbrio de Rotor
+deseq. tens.,Desequilíbrio de Tensão
+desequilibrio_tensao_percent,Desequilíbrio de Tensão
+desligamento por proteção,Desarme
+deslizamento,Escorregamento
+dht,Distorção Harmônica Total
+diametro_eixo_mm,Eixo
+dielectric absorption ratio,Índice de Polarização
+diferença de potencial,Tensão
+digital mirror,Digital Twin
+digital_twin_id,Sincronização de Estado
+dimensão do motor,Carcaça IEC
+displacement power factor,Fator de Potência
+disponibilidade,Status Operacional
+distorcao_harmonica_total,Distorção Harmônica Total
+distorção total,Distorção Harmônica Total
+dol,Partida Direta
+dol start,Partida Direta
+drive,Inversor de Frequência
+drive shaft,Eixo
+dt,Digital Twin
+dust contamination,Contaminação
+duty cycle,Regime de Serviço
+dynamic unbalance,Desequilíbrio de Rotor
+earth fault,Curto à Terra
+edm bearing damage,Corrente de Eixo
+eficiência,Rendimento
+eficiência energética,Rendimento
+eixo,Eixo
+eixo de saída,Eixo
+eixo do rotor,Eixo
+electrical fluting,Corrente de Eixo
+electromotive force,Tensão
+electronic soft start,Soft-Starter
+elevacao_temperatura_k,Elevação de Temperatura
+elevation above sea level,Altitude
+elevação,Altitude
+elevação térmica,Elevação de Temperatura
+embobinamento,Enrolamento
+enc.,Encoder
+enclosure,Carcaça
+energy efficiency,Rendimento
+engraxamento,Lubrificação
+enrol.,Enrolamento
+equipment condition,Status Operacional
+equipment datasheet,Especificação Técnica
+equipment description,Descrição do Ativo
+equipment id,TAG
+erosão elétrica em rolamento,Corrente de Eixo
+escorregamento_percent,Escorregamento
+espec.,Especificação Técnica
+especificacao_tecnica,Especificação Técnica
+especificação do equipamento,Especificação Técnica
+espelhamento de estado,Sincronização de Estado
+estado operacional,Status Operacional
+estat.,Estator
+estrategia_manutencao,Manutenção Preditiva
+etiqueta do motor,Placa de Identificação
+event datetime,Timestamp
+ex,Motor à Prova de Explosão
+ex motor,Motor à Prova de Explosão
+ex-d,Proteção contra Explosão
+excess current,Sobrecorrente
+excess voltage,Sobretensão
+excesso de corrente,Sobrecorrente
+excesso de tensão,Sobretensão
+explosion proof motor,Motor à Prova de Explosão
+explosion-proof motor,Proteção contra Explosão
+f,Frequência
+fab.,Fabricante
+fabricante,Fabricante
+failure analysis,Análise de Causa Raiz
+falha crítica,Desarme
+falha no mancal,Falha em Rolamento
+falha_isol.,Falha de Isolamento
+falha_rol.,Falha em Rolamento
+falta à terra,Curto à Terra
+falta_fase,Falta de Fase
+fan,Ventilador
+fator de sobrecarga,Fator de Serviço
+fator_potencia,Fator de Potência
+fator_servico,Fator de Serviço
+fft analysis,Análise de Vibração
+ficha técnica,Especificação Técnica
+flameproof,Proteção contra Explosão
+flameproof motor,Motor à Prova de Explosão
+floc,Localização Funcional
+flywheel effect,Momento de Inércia
+fmk,Frouxidão Mecânica
+folga mecânica,Frouxidão Mecânica
+fp,Fator de Potência
+fr.,Carcaça
+frame,Carcaça IEC
+frame do motor,Carcaça IEC
+fratura de barra,Barra de Rotor Quebrada
+freq.,Frequência
+frequencia_hz,Frequência
+frequency converter,Inversor de Frequência
+frequência de rede,Frequência
+frequência nominal,Frequência
+frouxidão estrutural,Frouxidão Mecânica
+fs,Fator de Serviço
+full voltage starting,Partida Direta
+functional description,Descrição do Ativo
+functional location,Localização Funcional
+gaiola de esquilo,Motor de Rotor Gaiola de Esquilo
+gd²,Momento de Inércia
+geração automática de texto,Geração de Linguagem Natural
+gln,Geração de Linguagem Natural
+gnd_fault,Curto à Terra
+grafo de conhecimento do ativo,Ontologia do Ativo
+grau_protecao_ip,Grau de Proteção
+ground leakage,Curto à Terra
+gêmeo digital,Digital Twin
+harm.,Harmônicos
+harmonic components,Harmônicos
+harmonic distortion factor,Distorção Harmônica Total
+harmônicas de corrente,Harmônicos
+harmônicas de tensão,Harmônicos
+hazardous area motor,Motor à Prova de Explosão
+hierarquia técnica,Localização Funcional
+high voltage fault,Sobretensão
+historico_contaminacao,Contaminação
+historico_curto_terra,Curto à Terra
+historico_falha_desalinhamento,Desalinhamento
+historico_falha_desbalanceamento,Desequilíbrio de Rotor
+historico_falha_estator,Curto-Circuito entre Espiras
+historico_falha_isolamento,Falha de Isolamento
+historico_falha_rolamento,Falha em Rolamento
+historico_falha_rotor,Barra de Rotor Quebrada
+historico_falta_fase,Falta de Fase
+historico_sobrecarga,Sobrecarga Térmica
+hm,Horímetro
+hor,Horímetro
+horas de operação,Horímetro
+horas rodadas,Horímetro
+horas trabalhadas,Horas de Operação
+horas_operacao_total,Horímetro
+horímetro,Horas de Operação
+hour counter,Horímetro
+hour meter,Horas de Operação
+hs. op.,Horas de Operação
+hélice de resfriamento,Ventilador
+i,Corrente
+icp sensor,Acelerômetro
+identificação do equipamento,TAG
+ie,Classe de Eficiência
+ie code,Classe de Eficiência
+ie1,Classe de Eficiência
+ie2,Classe de Eficiência
+ie3,Classe de Eficiência
+ie4,Classe de Eficiência
+iec 60034,NBR 17094
+iec frame,Carcaça IEC
+iec rotating machines standard,NBR 17094
+if,Inversor de Frequência
+iiot,IIoT
+iiot telemetry,Telemetria de Sensor
+imageamento térmico,Termografia
+incremental encoder,Encoder
+indice_polarizacao,Índice de Polarização
+industrial internet of things,IIoT
+industrial iot,IIoT
+industry 4.0 connectivity,IIoT
+infrared thermography,Termografia
+infravermelho,Termografia
+ingresso de agentes externos,Contaminação
+inmetro,Certificação INMETRO
+inrush current,Corrente de Partida
+ins. cl.,Classe de Isolamento
+ins_fault,Falha de Isolamento
+installation altitude,Altitude
+instrument tag,TAG
+insufficient voltage,Subtensão
+insulation breakdown,Falha de Isolamento
+insulation degradation,Falha de Isolamento
+insulation megohms,Resistência de Isolamento
+insulation temperature class,Classe de Isolamento
+intensidade de corrente,Corrente
+interlock logic,Intertravamento
+international efficiency class,Classe de Eficiência
+internet industrial das coisas,IIoT
+intervalo_lubrificacao_horas,Lubrificação
+intlk,Intertravamento
+inv-duty,Motor Inverter-Duty
+inverter-rated motor,Motor Inverter-Duty
+investigação de causa raiz,Análise de Causa Raiz
+invólucro,Carcaça
+inércia do rotor,Momento de Inércia
+ip,Corrente de Partida
+ip code,Grau de Proteção
+ip rating,Grau de Proteção
+ir,Resistência de Isolamento
+ir inspection,Termografia
+is,Corrente de Partida
+itsc,Curto-Circuito entre Espiras
+j,Momento de Inércia
+junction box,Caixa de Ligação
+klixon,Termistor PTC
+lig.,Ligação do Enrolamento
+ligacao_enrolamento,Ligação do Enrolamento
+ligação delta,Ligação do Enrolamento
+ligação estrela,Ligação do Enrolamento
+ligação triângulo,Ligação do Enrolamento
+limiar configurado,Setpoint
+line frequency,Frequência
+loc. func.,Localização Funcional
+local de instalação,Localização Funcional
+localizacao_ccm,Centro de Controle de Motores
+localizacao_funcional,Localização Funcional
+locked rotor current,Corrente de Partida
+loose foundation,Frouxidão Mecânica
+low voltage,Subtensão
+lrc,Corrente de Partida
+lube,Lubrificação
+lubr.,Lubrificação
+lubricant analysis,Análise de Óleo
+lógica de intertravamento,Intertravamento
+maintenance order,Ordem de Serviço
+maintenance ticket,Ordem de Serviço
+mancal de rolamento,Rolamento
+manufacturing number,Número de Série
+manutenção baseada em condição,Manutenção Preditiva
+marca,Fabricante
+marca temporal,Timestamp
+margem de serviço,Fator de Serviço
+mcc,Centro de Controle de Motores
+mcsa,MCSA
+mean time between failures,MTBF
+mean time to repair,MTTR
+mechanical play,Frouxidão Mecânica
+megaohmagem,Resistência de Isolamento
+megger test value,Resistência de Isolamento
+mfr.,Fabricante
+misalign,Desalinhamento
+mit,Motor de Indução Trifásico
+ml,Frouxidão Mecânica
+mod.,Modelo
+mod. deg.,Modelo de Degradação
+model code,Modelo
+modelo de desgaste,Modelo de Degradação
+modelo de envelhecimento,Modelo de Degradação
+modelo semântico do ativo,Ontologia do Ativo
+modelo_fabricante,Modelo
+modo de operação,Status Operacional
+moisture ingress,Contaminação
+momento de força,Torque
+momento torçor,Torque
+momento_inercia_kgm2,Momento de Inércia
+monitoramento de vibração,Análise de Vibração
+monofasismo,Falta de Fase
+motor antiexplosivo,Motor à Prova de Explosão
+motor assíncrono trifásico,Motor de Indução Trifásico
+motor ca trifásico,Motor de Indução Trifásico
+motor control panel,Centro de Controle de Motores
+motor current signature analysis,MCSA
+motor de anéis,Motor de Rotor Bobinado
+motor de frequência variável,Motor Inverter-Duty
+motor de gaiola,Motor de Indução Trifásico
+motor de indução padrão,Motor de Rotor Gaiola de Esquilo
+motor de velocidade constante,Motor Síncrono
+motor de ímã permanente,Motor Síncrono
+motor efficiency,Rendimento
+motor ex,Motor à Prova de Explosão
+motor ex-d,Proteção contra Explosão
+motor frame,Carcaça
+motor frame size,Carcaça IEC
+motor heater,Resistência de Aquecimento
+motor manufacturer,Fabricante
+motor nameplate,Placa de Identificação
+motor overload,Sobrecarga Térmica
+motor para inversor,Motor Inverter-Duty
+motor para área classificada,Motor à Prova de Explosão
+motor pm,Motor Síncrono
+motor poles,Número de Polos
+motor protection relay,Relé de Proteção
+motor slip ring,Motor de Rotor Bobinado
+motor starter panel,Centro de Controle de Motores
+motor vfd-ready,Motor Inverter-Duty
+motor à prova de chama,Proteção contra Explosão
+motor à prova de explosão,Proteção contra Explosão
+mounting dimensions,Carcaça IEC
+mpd,Manutenção Preditiva
+mrb,Motor de Rotor Bobinado
+mrge,Motor de Rotor Gaiola de Esquilo
+ms,Motor Síncrono
+mtbf,MTBF
+mtbf_horas,Modelo de Degradação
+mttr,MTTR
+mttr_horas,MTTR
+n,Rotação
+n/s,Número de Série
+nameplate data,Especificação Técnica
+narrativa automática,Geração de Linguagem Natural
+national electrical manufacturers association,NEMA MG1
+nbr 17094,NBR 17094
+nema,NEMA MG1
+nema standard,NEMA MG1
+nlg,Geração de Linguagem Natural
+norma abnt motores,NBR 17094
+norma brasileira motores,NBR 17094
+norma nema,NEMA MG1
+norma_aplicavel,NEMA MG1
+np,Placa de Identificação
+ns,Velocidade Síncrona
+numero_ordem_servico,Ordem de Serviço
+numero_polos,Número de Polos
+numero_serie,Número de Série
+nº série,Número de Série
+nível de eficiência energética,Classe de Eficiência
+nível de vibração,Vibração
+núcleo estatórico,Estator
+núcleo rotórico,Rotor
+número de fabricação,Número de Série
+oa,Análise de Óleo
+oc,Sobrecorrente
+oc fault,Sobrecorrente
+ocp,Certificação INMETRO
+oem,Fabricante
+oh,Horas de Operação
+oil condition monitoring,Análise de Óleo
+ol_therm,Sobrecarga Térmica
+ont. ativo,Ontologia do Ativo
+open phase,Falta de Fase
+operating hours,Horímetro
+operating mode,Status Operacional
+operating temperature,Temperatura
+optical encoder,Encoder
+ordem de manutenção,Ordem de Serviço
+os,Ordem de Serviço
+output power,Potência
+output shaft,Eixo
+ov,Sobretensão
+overcurrent,Sobrecorrente
+overcurrent fault,Sobrecorrente
+overheating,Sobrecarga Térmica
+overload factor,Fator de Serviço
+overload relay,Relé de Proteção
+overvoltage,Sobretensão
+overvoltage fault,Sobretensão
+p,Número de Polos
+padrão nema,NEMA MG1
+painel de controle de motores,Centro de Controle de Motores
+painéis ccm,Centro de Controle de Motores
+parallel misalignment,Desalinhamento
+part number,Modelo
+parte fixa,Estator
+parte girante,Rotor
+partida a plena tensão,Partida Direta
+partida progressiva,Soft-Starter
+partida suave,Soft-Starter
+pd,Partida Direta
+pdm,Manutenção Preditiva
+perda de fase,Falta de Fase
+permanent magnet motor,Motor Síncrono
+pf,Fator de Potência
+ph_loss,Falta de Fase
+phase failure,Falta de Fase
+pi,Índice de Polarização
+pi ratio,Índice de Polarização
+piezoelectric sensor,Acelerômetro
+placa,Placa de Identificação
+plant item number,TAG
+plant structure,Localização Funcional
+plaqueta de identificação,Placa de Identificação
+platinum resistance thermometer,PT100
+pm motor,Motor Síncrono
+pmsm,Motor Síncrono
+pole pairs,Número de Polos
+polos do motor,Número de Polos
+ponto de ajuste,Setpoint
+posicao_caixa_ligacao,Caixa de Ligação
+positive temperature coefficient thermistor,Termistor PTC
+posição funcional,Localização Funcional
+pot.,Potência
+potencia_nominal_kw,Potência
+potencia_reativa_kvar,Potência Reativa
+potential difference,Tensão
+potência de eixo,Potência
+potência nominal,Potência
+potência reativa,Potência Reativa
+process interlock,Intertravamento
+product reference,Modelo
+prot. relay,Relé de Proteção
+protecao_ex,Proteção contra Explosão
+protecao_termica_tipo,Termistor PTC
+protection actuation,Desarme
+protection degree,Grau de Proteção
+protective shutdown,Desarme
+proteção ip,Grau de Proteção
+pt100,PT100
+ptc,Termistor PTC
+pé manco,Frouxidão Mecânica
+q,Potência Reativa
+quadro de acionamento,Centro de Controle de Motores
+rated frequency,Frequência
+rated power,Potência
+rating plate,Placa de Identificação
+razão de absorção dielétrica,Índice de Polarização
+rca,Análise de Causa Raiz
+rca_registro,Análise de Causa Raiz
+rcfa,Análise de Causa Raiz
+re-greasing,Lubrificação
+reactive power,Potência Reativa
+reactive volt-amperes,Potência Reativa
+real-time sensor data,Telemetria de Sensor
+reduced voltage soft starter,Soft-Starter
+reference value,Setpoint
+referência do produto,Modelo
+regime de trabalho,Regime de Serviço
+regime_servico,Regime de Serviço
+relatório gerado por ia,Geração de Linguagem Natural
+rele_protecao_modelo,Relé de Proteção
+relubrication,Lubrificação
+relubrificação,Lubrificação
+relé de sobrecarga,Relé de Proteção
+relé prot.,Relé de Proteção
+relé térmico,Relé de Proteção
+remaining useful life model,Modelo de Degradação
+rend.,Rendimento
+rendimento_percent,Rendimento
+res. aq.,Resistência de Aquecimento
+resistance temperature detector,PT100
+resistencia_aquecimento_w,Resistência de Aquecimento
+resistencia_isolamento_mohm,Resistência de Isolamento
+resistor anti-condensação,Resistência de Aquecimento
+ri,Resistência de Isolamento
+ring motor,Motor de Rotor Bobinado
+rol.,Rolamento
+roller bearing,Rolamento
+root cause failure analysis,Análise de Causa Raiz
+rot.,Rotação
+rotary encoder,Encoder
+rotating part,Rotor
+rotational speed,Rotação
+rotor,Rotor
+rotor bar crack,Barra de Rotor Quebrada
+rotor bar failure,Barra de Rotor Quebrada
+rotor com anéis coletores,Motor de Rotor Bobinado
+rotor core,Rotor
+rotor em curto-circuito,Motor de Rotor Gaiola de Esquilo
+rotor inertia,Momento de Inércia
+rotor shaft,Eixo
+rotor slip,Escorregamento
+rpm,Rotação
+rtd,PT100
+rtr.,Rotor
+rul model,Modelo de Degradação
+running hours,Horímetro
+runtime,Horímetro
+runtime counter,Horímetro
+ruptura do isolamento,Falha de Isolamento
+rush current,Corrente de Partida
+rvss,Soft-Starter
+réplica digital,Digital Twin
+s,Regime de Serviço
+s/n,Número de Série
+safety interlock,Intertravamento
+sc,Sobrecorrente
+scim,Motor de Rotor Gaiola de Esquilo
+sensor data stream,Telemetria de Sensor
+sensor de posição angular,Encoder
+sensor de temperatura pt100,PT100
+sensor de vibração,Acelerômetro
+sensor piezoelétrico,Acelerômetro
+sensor_encoder_tipo,Encoder
+sensor_temperatura_tipo,PT100
+sensor_vibracao_tipo,Acelerômetro
+serial no.,Número de Série
+service hours,Horas de Operação
+service multiplier,Fator de Serviço
+service regime,Regime de Serviço
+service request,Ordem de Serviço
+set point,Setpoint
+setpoint_configurado,Setpoint
+sf,Fator de Serviço
+sf rating,Fator de Serviço
+sh,Resistência de Aquecimento
+shaft discharge current,Corrente de Eixo
+shaft misalignment,Desalinhamento
+shaft power,Potência
+shaft speed,Rotação
+shaft torque,Torque
+shc,Corrente de Eixo
+shft.,Eixo
+short-circuit rotor motor,Motor de Rotor Gaiola de Esquilo
+sinc. estado,Sincronização de Estado
+sincronização ativo-réplica,Sincronização de Estado
+single phasing,Falta de Fase
+slip ring motor,Motor de Rotor Bobinado
+sm,Motor Síncrono
+smooth start,Soft-Starter
+sobreaquecimento,Sobrecarga Térmica
+sobrecarga,Sobrecarga Térmica
+soft foot,Frouxidão Mecânica
+solicitação de serviço,Ordem de Serviço
+sp,Setpoint
+spec.,Especificação Técnica
+spectral analysis,Análise de Vibração
+squirrel cage motor,Motor de Rotor Gaiola de Esquilo
+ss,Soft-Starter
+standstill heater,Resistência de Aquecimento
+star connection,Ligação do Enrolamento
+state mirroring,Sincronização de Estado
+state sync,Sincronização de Estado
+static unbalance,Desequilíbrio de Rotor
+stationary part,Estator
+stator,Estator
+stator core,Estator
+stator winding fault,Curto-Circuito entre Espiras
+status,Status Operacional
+status_operacional,Status Operacional
+stream de telemetria,Telemetria de Sensor
+structural looseness,Frouxidão Mecânica
+stv,Sobretensão
+superaquecimento,Sobrecarga Térmica
+supply frequency,Frequência
+surrounding temperature,Temperatura Ambiente
+synchronous rotational speed,Velocidade Síncrona
+t,Torque
+t-box,Caixa de Ligação
+t_amb,Temperatura Ambiente
+tacômetro digital,Encoder
+tag,TAG
+tag_equipamento,TAG
+target value,Setpoint
+taxa de distorção harmônica,Distorção Harmônica Total
+taxonomia técnica,Ontologia do Ativo
+tds,Especificação Técnica
+technical data sheet,Especificação Técnica
+technical object,Localização Funcional
+technical taxonomy,Ontologia do Ativo
+tecnica_monitoramento,Análise de Óleo
+tel.,Telemetria de Sensor
+temp.,Temperatura
+temperatura de enrolamento,Temperatura
+temperatura de operação,Temperatura
+temperatura do ambiente,Temperatura Ambiente
+temperatura_ambiente_c,Temperatura Ambiente
+temperatura_max_operacao_c,Temperatura
+tempo médio de reparo,MTTR
+tempo médio entre falhas,MTBF
+tens.,Tensão
+tensao_nominal_v,Tensão
+tensão excessiva,Sobretensão
+tensão insuficiente,Subtensão
+terminal board,Caixa de Ligação
+termistor de coeficiente positivo,Termistor PTC
+termog.,Termografia
+termoresistência,PT100
+thd,Distorção Harmônica Total
+thd_percent,Harmônicos
+thermal class,Classe de Isolamento
+thermal imaging,Termografia
+thermal index,Classe de Isolamento
+thermal overload,Sobrecarga Térmica
+thermal relay,Relé de Proteção
+thermal rise,Elevação de Temperatura
+three-phase asynchronous motor,Motor de Indução Trifásico
+threshold,Setpoint
+ticket de manutenção,Ordem de Serviço
+time marker,Timestamp
+time stamp,Timestamp
+timestamp_evento,Timestamp
+tipo_evento,Intertravamento
+tipo_falha,Corrente de Eixo
+tipo_motor,Motor Inverter-Duty
+tipo_partida,Soft-Starter
+tipo_resfriamento,Ventilador
+tipo_rolamento_de_re_en,Rolamento
+tir,Termografia
+torque_nominal_nm,Torque
+total harmonic content,Distorção Harmônica Total
+tpim,Motor de Indução Trifásico
+tq,Torque
+trip,Desarme
+ts,Timestamp
+turn-to-turn fault,Curto-Circuito entre Espiras
+turning moment,Torque
+twin update,Sincronização de Estado
+twisting moment,Torque
+unbal,Desequilíbrio de Rotor
+unbalance,Desequilíbrio de Rotor
+undervoltage,Subtensão
+undervoltage fault,Subtensão
+utv,Subtensão
+uv,Subtensão
+v,Tensão
+va,Análise de Vibração
+valor de referência,Setpoint
+variable frequency duty motor,Motor Inverter-Duty
+variable speed drive,Inversor de Frequência
+variador de velocidade,Inversor de Frequência
+velocidade angular,Rotação
+velocidade de rotação,Rotação
+velocidade de sincronismo,Velocidade Síncrona
+velocidade_nominal_rpm,Rotação
+velocidade_sincrona_rpm,Velocidade Síncrona
+vent.,Ventilador
+vfd,Inversor de Frequência
+vfd motor,Motor Inverter-Duty
+vib.,Vibração
+vibracao_rms_mms,Vibração
+vibration amplitude,Vibração
+vibration level,Vibração
+vibration monitoring,Análise de Vibração
+vibration sensor,Acelerômetro
+virtual replica,Digital Twin
+voltage harmonics,Harmônicos
+voltage imbalance,Desequilíbrio de Tensão
+voltagem,Tensão
+vsd,Inversor de Frequência
+vu,Desequilíbrio de Tensão
+warning,Alarme
+wdg.,Enrolamento
+wear model,Modelo de Degradação
+winding temperature,Temperatura
+winding temperature rise,Elevação de Temperatura
+wo,Ordem de Serviço
+wound rotor motor,Motor de Rotor Bobinado
+wrim,Motor de Rotor Bobinado
+wye connection,Ligação do Enrolamento
+índice de proteção,Grau de Proteção
+índice dielétrico,Índice de Polarização
+δt,Elevação de Temperatura
+η (eta),Rendimento
+θ,Temperatura
