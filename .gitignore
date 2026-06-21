@@ -21,12 +21,6 @@ models/
 *.index
 *.faiss
 
-# Outputs gerados em runtime — ignorar, mas manter docs fixos da Sprint 1
-relatorios/*.txt
-relatorios/metricas_avaliacao_sprint2.csv
-relatorios/corpus_stats_sprint2.json
-relatorios/templates_nlg_sprint2.md
-
 # OS
 .DS_Store
 Thumbs.db

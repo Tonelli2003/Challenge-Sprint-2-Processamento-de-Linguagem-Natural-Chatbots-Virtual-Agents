@@ -1,0 +1,12 @@
+⚠️ RELATÓRIO OPERACIONAL AUTOMÁTICO | Ativo: MT-205
+────────────────────────────────────────────────────────
+O equipamento Motor de Indução Trifásico WEG HGF, localizado em 'Área 4 - Moinho de Bolas', encontra-se atualmente com vibração acima do limiar ISO 20816-3 Zona B (> 4,5 mm/s RMS).
+
+Última leitura dos sensores industriais:
+  • Tensão       : 688 V
+  • Corrente     : 220.0 A
+  • Rotação      : 1198 RPM
+  • Temp. Carcaça: 78 °C
+  • Vibração     : 5.3 mm/s RMS
+
+Diretriz: Agendar análise espectral de vibração. Verificar balanceamento e alinhamento.

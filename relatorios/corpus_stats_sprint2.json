@@ -1,0 +1,10 @@
+{
+  "total_vetores": 7,
+  "dimensao": 384,
+  "dtype": "float32",
+  "modelo": "paraphrase-multilingual-MiniLM-L12-v2",
+  "tipo_indice": "IndexFlatL2",
+  "metrica": "L2 (Euclidiana)",
+  "self_retrieval": "PASS",
+  "data_indexacao": "2026-06-20T22:39:36.389217"
+}

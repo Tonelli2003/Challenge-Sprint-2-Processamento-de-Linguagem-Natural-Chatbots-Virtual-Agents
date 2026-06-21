@@ -1,0 +1,31 @@
+cat,nivel,desc,query,esperados,retornados,P,R,F1,MRR,S1,icon
+A,Facil,Dois ativos na Area 3 — ambiguidade esperada,motor da area 3,"['MT-042', 'MT-015']","['MT-088', 'MT-042']",0.5,0.5,0.5,0.5,0.0609,PARCIAL
+A,Facil,Localizacao tecnica especifica,equipamento no exaustor do forno,['MT-088'],"['MT-088', 'MT-042']",0.5,1.0,0.667,1.0,0.0745,OK
+A,Facil,Localizacao por aplicacao,motor do compressor de gas natural,['MT-102'],"['MT-102', 'MT-088']",0.5,1.0,0.667,1.0,0.0547,OK
+A,Facil,Localizacao por equipamento acoplado,motor do moinho,['MT-205'],"['MT-042', 'MT-088']",0.0,0.0,0.0,0.0,0.1032,FALHA
+A,Facil,Localizacao por setor,motor das bombas quimicas,['MT-411'],"['MT-042', 'MT-411']",0.5,1.0,0.667,0.5,0.1028,OK
+B,Medio,Especificacao eletrica em PT,motor trifasico 380 volts 15kW,['MT-042'],"['MT-102', 'MT-042']",0.5,1.0,0.667,0.5,0.0739,OK
+B,Medio,Diferencia MT-088 de MT-411,motor 440V alta temperatura classe H,['MT-088'],"['MT-088', 'MT-102']",0.5,1.0,0.667,1.0,0.0837,OK
+B,Medio,Variacao numerica sem unidade padrao,motor de altissima tensao 13 kilovolts,['MT-102'],"['MT-102', 'MT-205']",0.5,1.0,0.667,1.0,0.107,OK
+B,Medio,Tipo + potencia,motor monofasico baixa potencia 1.5kW,['MT-015'],"['MT-102', 'MT-015']",0.5,1.0,0.667,0.5,0.0834,OK
+B,Medio,Tensao incomum + especificacao,motor 690 volts rolamento isolado IE3,['MT-205'],"['MT-088', 'MT-102']",0.0,0.0,0.0,0.0,0.0945,FALHA
+B,Medio,Norma area classificada,motor certificacao ATEX zona 1 IECEx,['MT-411'],"['MT-411', 'MT-088']",0.5,1.0,0.667,1.0,0.0968,OK
+C,Medio,ac induction motor -> Motor de Inducao,ac induction motor 380 volts,"['MT-042', 'MT-310']","['MT-102', 'MT-042']",0.5,0.5,0.5,0.5,0.0803,PARCIAL
+C,Medio,inverter duty -> motor com VSD,inverter duty motor forno,['MT-088'],"['MT-088', 'MT-042']",0.5,1.0,0.667,1.0,0.1035,OK
+C,Medio,EN puro — gaiola de esquilo bomba,squirrel cage motor pumping application,"['MT-042', 'MT-310']","['MT-088', 'MT-102']",0.0,0.0,0.0,0.0,0.0586,FALHA
+C,Medio,EN puro — sincrono alta tensao,synchronous motor high voltage compressor,['MT-102'],"['MT-102', 'MT-088']",0.5,1.0,0.667,1.0,0.0542,OK
+C,Medio,explosion proof -> Motor a Prova de Explosao,explosion proof motor classified area,['MT-411'],"['MT-411', 'MT-310']",0.5,1.0,0.667,1.0,0.1318,OK
+D,Dificil,oc fault -> Sobrecorrente,oc fault mt-088,['MT-088'],"['MT-042', 'MT-088']",0.5,1.0,0.667,0.5,0.093,OK
+D,Dificil,bearing failure + Area 1,bearing failure motor area 1,['MT-088'],"['MT-411', 'MT-042']",0.0,0.0,0.0,0.0,0.1069,FALHA
+D,Dificil,VSD -> Inversor de Frequencia,VSD motor 55kW forno,['MT-088'],"['MT-088', 'MT-102']",0.5,1.0,0.667,1.0,0.0628,OK
+D,Dificil,Tecnica de diagnostico — dois ativos,MCSA monitoramento motor com inversor,"['MT-088', 'MT-205']","['MT-088', 'MT-205']",1.0,1.0,1.0,1.0,0.0708,OK
+D,Dificil,DOL -> Partida Direta,DOL partida direta 220V,['MT-015'],"['MT-042', 'MT-015']",0.5,1.0,0.667,0.5,0.1051,OK
+D,Dificil,Estrela-Triangulo -> bomba,Y-delta starting pump motor,['MT-310'],"['MT-310', 'MT-102']",0.5,1.0,0.667,1.0,0.0695,OK
+E,Dificil,Dois WEG IP55 — ambos validos,motor WEG ip55 com analise de vibracao,"['MT-042', 'MT-205']","['MT-205', 'MT-088']",0.5,0.5,0.5,1.0,0.1027,PARCIAL
+E,Dificil,MT-102 Siemens tem rotacao alta,equipamento Siemens area 2 baixa rotacao,['MT-310'],"['MT-042', 'MT-205']",0.0,0.0,0.0,0.0,0.1093,FALHA
+E,Dificil,Negacao implicita — evitar MT-042,motor trifasico soft-starter nao WEG,['MT-088'],"['MT-310', 'MT-102']",0.0,0.0,0.0,0.0,0.0815,FALHA
+E,Dificil,Superlativo — 500kW deve emergir,motor mais potente da planta,['MT-102'],"['MT-102', 'MT-042']",0.5,1.0,0.667,1.0,0.0716,OK
+F,Muito Dificil,PT+EN: bearing current em VSD,motor de inducao com bearing current problema,"['MT-088', 'MT-205']","['MT-042', 'MT-088']",0.5,0.5,0.5,0.5,0.1182,PARCIAL
+F,Muito Dificil,EN tecnico + PT geografico,thermal overload alarm area do forno,['MT-088'],"['MT-088', 'MT-042']",0.5,1.0,0.667,1.0,0.0568,OK
+F,Muito Dificil,EN quase puro + classe H,insulation class H motor running above rated temp,['MT-088'],"['MT-088', 'MT-102']",0.5,1.0,0.667,1.0,0.1001,OK
+F,Muito Dificil,PT+EN + norma + manutencao,motor da Area 5 com IECEx certification preditiva,['MT-411'],"['MT-411', 'MT-088']",0.5,1.0,0.667,1.0,0.0642,OK

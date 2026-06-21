@@ -1,0 +1,12 @@
+🚨 RELATÓRIO OPERACIONAL AUTOMÁTICO | Ativo: MT-088
+────────────────────────────────────────────────────────
+O equipamento Motor Inverter-Duty ABB, localizado em 'Área 1 - Exaustor do Forno', encontra-se atualmente apresentando um desvio operacional crítico (Alarme de Temperatura).
+
+Última leitura dos sensores industriais:
+  • Tensão       : 440 V
+  • Corrente     : 85.0 A
+  • Rotação      : 3450 RPM
+  • Temp. Carcaça: 92 °C
+  • Vibração     : 4.8 mm/s RMS
+
+Diretriz: Recomenda-se a abertura de uma ordem de serviço e inspeção imediata.
